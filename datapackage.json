@@ -1,0 +1,75 @@
+{
+  "name": "unece-units-of-measure",
+  "title": "UNECE Units of measure",
+  "version": "13.0",
+  "licensces": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UNECE",
+      "path": "https://www.unece.org/tradewelcome/un-centre-for-trade-facilitation-and-e-business-uncefact/outputs/cefactrecommendationsrec-index/list-of-trade-facilitation-recommendations-n-16-to-20.html",
+      "title": "UNECE"
+    }
+  ],
+  "resources": [
+    {
+      "path": "data/unit-of-measure.csv",
+      "name": "unit-of-measure",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "LevelAndCategory",
+            "type": "string",
+            "description": "See levels.csv"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "description": "Only for Levels 1 and 2"
+          },
+          {
+            "name": "CommonCode",
+            "type": "string",
+            "description": "UNECE code for the unit of measure"
+          },
+          {
+            "name": "Name",
+            "type": "string"
+          },
+          {
+            "name": "Quantity",
+            "type": "string",
+            "description": "Measured quantity, only for Levels 1 and 2"
+          },
+          {
+            "name": "Description",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/levels.csv",
+      "name": "levels",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "LevelAndCategory",
+            "type": "string"
+          },
+          {
+            "name": "Description",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

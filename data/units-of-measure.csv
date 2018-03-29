@@ -1,0 +1,1737 @@
+LevelAndCategory,Sector,CommonCode,Name,Quantity,Description
+1,Acoustics,C58,newton second per metre,mechanical impedance,
+1,Acoustics,C59,octave,frequency interval,A unit used in music to describe the ratio in frequency between notes.
+1,Acoustics,C66,pascal second per cubic metre,acoustic impedance,
+1,Acoustics,C67,pascal second per metre,characteristic impedance of a medium,
+1,Acoustics,C69,phon,loudness level,A unit of subjective sound loudness. A sound has loudness p phons if it seems to the listener to be equal in loudness to the sound of a pure tone of frequency 1 kilohertz and strength p decibels.
+1,Acoustics,D15,sone,loudness,A unit of subjective sound loudness. One sone is the loudness of a pure tone of frequency one kilohertz and strength 40 decibels.
+1,Acoustics,H51,decibel per kilometre,"sound pressure level, sound power level",
+1,Acoustics,H52,decibel per metre,"sound pressure level, sound power level",
+1,Acoustics,P42,pascal squared second,sound exposure,Unit of the set as a product of the power of derived SI unit pascal with exponent 2 and the SI base unit second.
+1,Atomic and Nuclear Physics,A10,ampere square metre per joule second,"gyromagnetic coefficient, (gyromagnetic ratio)",
+1,Atomic and Nuclear Physics,A18,becquerel per kilogram,specific activity in a sample,
+1,Atomic and Nuclear Physics,A19,becquerel per cubic metre,"volumic activity, activity concentration",
+1,Atomic and Nuclear Physics,B18,joule second,Planck constant,
+1,Atomic and Nuclear Physics,BQL,becquerel,activity,
+1,Electricity and Magnetism,81,henry,"self inductance, mutual inductance, permeance",
+1,Electricity and Magnetism,A26,coulomb metre,electric dipole moment,
+1,Electricity and Magnetism,A29,coulomb per cubic metre,"volume density of charge, charge density, volumic charge",
+1,Electricity and Magnetism,A34,coulomb per square metre,"surface density of charge, electric flux density, displacement electric polarization",
+1,Electricity and Magnetism,A41,ampere per square metre,current density,
+1,Electricity and Magnetism,A5,ampere square metre,"electromagnetic moment, magnetic moment, (magnetic area moment)",
+1,Electricity and Magnetism,A69,farad per metre,"permittivity, permittivity of vacuum, (electric constant)",
+1,Electricity and Magnetism,A8,ampere second,"electric charge, quantity of electricity, electric flux (flux of displacement)",
+1,Electricity and Magnetism,A98,henry per metre,"permeability, permeability of vacuum, magnetic constant",
+1,Electricity and Magnetism,AE,ampere per metre,"linear electric current density, lineic electric current, magnetic field strength",
+1,Electricity and Magnetism,AMP,ampere,"electric current, magnetic potential difference, magnetomotive force,current linkage",
+1,Electricity and Magnetism,B8,joule per cubic metre,"electromagnetic energy density, volumic electromagnetic energy",
+1,Electricity and Magnetism,C61,ohm metre,resistivity,
+1,Electricity and Magnetism,C89,reciprocal henry,reluctance,
+1,Electricity and Magnetism,COU,coulomb,"electric charge, quantity of electricity, electric flux (flux of displacement)",
+1,Electricity and Magnetism,D10,siemens per metre,conductivity,
+1,Electricity and Magnetism,D33,tesla,"magnetic flux density, magnetic induction, magnetic polarization",
+1,Electricity and Magnetism,D44,var,reactive power,The name of the unit is an acronym for volt-ampere-reactive.
+1,Electricity and Magnetism,D45,volt squared per kelvin squared,electric field strength,
+1,Electricity and Magnetism,D46,volt - ampere,apparent power,
+1,Electricity and Magnetism,D50,volt per metre,electric field strength,
+1,Electricity and Magnetism,D59,weber per metre,magnetic vector potential,
+1,Electricity and Magnetism,FAR,farad,capacitance,
+1,Electricity and Magnetism,H31,ampere per kilogram,current density,
+1,Electricity and Magnetism,H32,ampere squared second,"electric charge, quantity of electricity, electric flux (flux of displacement)",
+1,Electricity and Magnetism,H45,volt second per metre,electric field strength,
+1,Electricity and Magnetism,N91,reciprocal joule,"coefficient, performance characteristic",Reciprocal of the derived SI unit joule.
+1,Electricity and Magnetism,OHM,ohm,"resistance (to direct current), impedance, (complex impedances), modulus of impedance, resistance (to alternating current), reactance",
+1,Electricity and Magnetism,P10,coulomb per metre,lineic charge,Derived SI unit coulomb divided by the SI base unit metre.
+1,Electricity and Magnetism,P14,joule per second,"power (for direct current), active power",Quotient of the derived SI unit joule divided by the SI base unit second.
+1,Electricity and Magnetism,SIE,siemens,"conductance (for direct current), admittance, (complex admittance), modulus of admittance,(admittance), conductance (for alternating current)",
+1,Electricity and Magnetism,VLT,volt,"electric potential, potential difference, tension, voltage, electromotive force",
+1,Electricity and Magnetism,WEB,weber,magnetic flux,
+1,Heat,B11,joule per kilogram kelvin,"specific heat capacity at: - constant pressure, -constant volume,- saturation",
+1,Heat,B21,kelvin per watt,thermal resistance,
+1,Heat,C64,pascal per kelvin,pressure coefficient,
+1,Heat,C91,reciprocal kelvin or kelvin to the power minus one,"linear expansion coefficient, cubic expansion coefficient, relative pressure coefficient",
+1,Heat,CEL,degree Celsius,temperature,Refer ISO 80000-5 (Quantities and units - Part 5: Thermodynamics)
+1,Heat,D19,square metre kelvin per watt,"thermal insulance, coefficient of thermal insulation",
+1,Heat,D52,watt per kelvin,thermal conductance,
+1,Heat,D53,watt per metre kelvin,thermal conductivity,
+1,Heat,D54,watt per square metre,density of heat flow rate,
+1,Heat,D55,watt per square metre kelvin,coefficient of heat transfer,
+1,Heat,H35,kelvin metre per watt,thermal resistance,
+1,Heat,J2,joule per kilogram,"massic energy, specific energy",
+1,Heat,JE,joule per kelvin,"heat capacity, entropy",
+1,Heat,KEL,kelvin,thermodynamic,Refer ISO 80000-5 (Quantities and units - Part 5: Thermodynamics)
+1,Light and Related Electromagnetic Radiations,A24,candela per square metre,luminance,
+1,Light and Related Electromagnetic Radiations,B13,joule per square metre,"radiant energy fluence, radiance exposure",Synonym: joule per metre squared
+1,Light and Related Electromagnetic Radiations,B14,joule per metre to the fourth power,"spectral concentration of radiant energy density (in terms of wavelength),spectral radiant energy density (in terms of wave length)",
+1,Light and Related Electromagnetic Radiations,B60,lumen per square metre,luminous exitance,
+1,Light and Related Electromagnetic Radiations,B61,lumen per watt,"luminious efficacy, spectral luminous efficacy, luminous efficacy at a specified wavelength, maximum spectral luminous efficacy",
+1,Light and Related Electromagnetic Radiations,B62,lumen second,quantity of light,
+1,Light and Related Electromagnetic Radiations,B64,lux second,light exposure,
+1,Light and Related Electromagnetic Radiations,C84,radian per metre,"angular wave number, angular repetency",
+1,Light and Related Electromagnetic Radiations,C93,reciprocal square metre,photon exposure,Synonym: reciprocal metre squared
+1,Light and Related Electromagnetic Radiations,C99,reciprocal second per metre squared,"photon exitance, irradiance",
+1,Light and Related Electromagnetic Radiations,CDL,candela,luminous intensity,
+1,Light and Related Electromagnetic Radiations,D1,reciprocal second per steradian,photon intensity,
+1,Light and Related Electromagnetic Radiations,D18,metre kelvin,second radiation constant,
+1,Light and Related Electromagnetic Radiations,D2,reciprocal second per steradian metre squared,"photon luminance, photon radiance",
+1,Light and Related Electromagnetic Radiations,D22,square metre per mole,molar absorption coefficient,
+1,Light and Related Electromagnetic Radiations,D56,watt per square metre kelvin to the fourth power,Stefan-Boltzmann constant,
+1,Light and Related Electromagnetic Radiations,D57,watt per steradian,radiant intensity,
+1,Light and Related Electromagnetic Radiations,D58,watt per steradian square metre,radiance,
+1,Light and Related Electromagnetic Radiations,H47,watt per cubic metre,"radiant energy, fluence rate, radiant exitance, irradiance, first radiation constant",
+1,Light and Related Electromagnetic Radiations,LUM,lumen,luminous flux,
+1,Light and Related Electromagnetic Radiations,LUX,lux,illuminance,
+1,Mechanics,28,kilogram per square metre,"surface density, areic mass",
+1,Mechanics,4P,newton per metre,surface tension,
+1,Mechanics,A39,cubic metre per kilogram,"specific volume, massic volume",
+1,Mechanics,A53,electronvolt,"work, energy, potential energy, kinetic energy",
+1,Mechanics,ATM,standard atmosphere,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1,Mechanics,B31,kilogram metre per second,momentum,
+1,Mechanics,B32,kilogram metre squared,moment of inertia (dynamic moment of inertia),
+1,Mechanics,B33,kilogram metre squared per second,"moment of momentum, angular momentum",
+1,Mechanics,B83,metre to the fourth power,"second moment of area, second axial moment of area",
+1,Mechanics,BAR,bar [unit of pressure],"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1,Mechanics,C53,newton metre second,angular impulse,
+1,Mechanics,C54,newton metre squared per kilogram squared,gravitational constant,
+1,Mechanics,C57,newton second,impulse,
+1,Mechanics,C62,one,"relative density, relative mass density",Synonym: unit
+1,Mechanics,C65,pascal second,viscosity (dynamic viscosity),
+1,Mechanics,C96,reciprocal pascal or pascal to the power minus one,"compressibility, bulk compressibility",
+1,Mechanics,GO,milligram per square metre,"surface density, areic mass",
+1,Mechanics,H40,newton per ampere,"moment of force, moment of a couple, torque",
+1,Mechanics,H56,kilogram per square metre second,mass flow rate,
+1,Mechanics,JOU,joule,"work, energy, potential energy, kinetic energy",
+1,Mechanics,KGM,kilogram,mass,A unit of mass equal to one thousand grams.
+1,Mechanics,KGS,kilogram per second,mass flow rate,
+1,Mechanics,KL,kilogram per metre,"linear density, linear mass",
+1,Mechanics,KMQ,kilogram per cubic metre,"density, mass density, volumic mass",A unit of weight expressed in kilograms of a substance that fills a volume of one cubic metre.
+1,Mechanics,M82,square metre per second pascal,kinematic viscosity,Power of the SI base unit metre with the exponent 2 divided by the SI base unit second and the derived SI unit pascal.
+1,Mechanics,MQS,cubic metre per second,volume flow rate,
+1,Mechanics,N37,kilogram per metre second,viscosity (dynamic viscosity),Unit of the dynamic viscosity as a quotient SI base unit kilogram divided by the SI base unit metre and by the SI base unit second.
+1,Mechanics,N38,kilogram per metre minute,viscosity (dynamic viscosity),Unit of the dynamic viscosity as a quotient SI base unit kilogram divided by the SI base unit metre and by the unit minute.
+1,Mechanics,NEW,newton,"force, weight",
+1,Mechanics,NU,newton metre,"moment of force, moment of a couple, torque",
+1,Mechanics,PAL,pascal,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1,Mechanics,S4,square metre per second,kinematic viscosity,Synonym: metre squared per second (square metres/second US)
+1,Mechanics,WHR,watt hour,"work, energy, potential energy, kinetic energy",
+1,Mechanics,WTT,watt,power,
+1,Miscellaneous,P79,pascal square metre per kilogram,burst index,"Unit of the burst index as derived unit for pressure pascal related to the substance, represented as a quotient from the SI base unit kilogram divided by the power of the SI base unit metre by exponent 2."
+1,Nuclear Reactions and Ionizing Radiations,A14,barn,total cross-section,
+1,Nuclear Reactions and Ionizing Radiations,A15,barn per electronvolt,spectral cross-section,
+1,Nuclear Reactions and Ionizing Radiations,A16,barn per steradian electronvolt,spectral angular cross-section,
+1,Nuclear Reactions and Ionizing Radiations,A17,barn per steradian,angular cross-section,
+1,Nuclear Reactions and Ionizing Radiations,A31,coulomb per kilogram second,exposure rate,
+1,Nuclear Reactions and Ionizing Radiations,A54,electronvolt per metre,total linear stopping power,
+1,Nuclear Reactions and Ionizing Radiations,A55,electronvolt square metre,total atomic stopping power,
+1,Nuclear Reactions and Ionizing Radiations,A56,electronvolt square metre per kilogram,total mass stopping power,
+1,Nuclear Reactions and Ionizing Radiations,A95,gray,"specific energy imparted, massic energy imparted",
+1,Nuclear Reactions and Ionizing Radiations,A96,gray per second,absorbed dose rate,
+1,Nuclear Reactions and Ionizing Radiations,B12,joule per metre,total linear stopping power,
+1,Nuclear Reactions and Ionizing Radiations,B20,joule square metre per kilogram,total mass stopping power,
+1,Nuclear Reactions and Ionizing Radiations,B81,reciprocal metre squared reciprocal second,"particle fluence rate, (partical flux density), neutron fluence rate, (neutronflux density), current density of particles",
+1,Nuclear Reactions and Ionizing Radiations,C87,reciprocal cubic metre per second,slowing down density,Synonym: reciprocal second per cubic metre
+1,Nuclear Reactions and Ionizing Radiations,CKG,coulomb per kilogram,exposure,
+1,Nuclear Reactions and Ionizing Radiations,D13,sievert,dose equivalent,
+1,Nuclear Reactions and Ionizing Radiations,D20,square metre per joule,spectral cross-section,
+1,Nuclear Reactions and Ionizing Radiations,D21,square metre per kilogram,mass attenuation coefficient,
+1,Nuclear Reactions and Ionizing Radiations,D24,square metre per steradian,angular cross-section,
+1,Nuclear Reactions and Ionizing Radiations,D25,square metre per steradian joule,spectral angular cross-section,
+1,Nuclear Reactions and Ionizing Radiations,D26,square metre per volt second,mobility,
+1,Nuclear Reactions and Ionizing Radiations,D73,joule square metre,total atomic stopping power,
+1,Nuclear Reactions and Ionizing Radiations,H58,metre per volt second,mobility,
+1,Periodic and related phenomena,2N,decibel,"level of a field quantity, level of a power quantity",
+1,Periodic and related phenomena,C50,neper,"level of a field quantity, level of a power quantity",
+1,Periodic and related phenomena,C51,neper per second,damping coefficient,
+1,Periodic and related phenomena,C97,reciprocal second,rotational frequency,
+1,Periodic and related phenomena,HTZ,hertz,frequency,
+1,Periodic and related phenomena,RPM,revolutions per minute,rotational frequency,Refer ISO/TC12 SI Guide
+1,Periodic and related phenomena,RPS,revolutions per second,rotational frequency,Refer ISO/TC12 SI Guide
+1,Physical Chemistry and Molecular Physics,A27,coulomb metre squared per volt,electric polarizability of a molecule,
+1,Physical Chemistry and Molecular Physics,A32,coulomb per mole,Faraday constant,
+1,Physical Chemistry and Molecular Physics,A40,cubic metre per mole,molar volume,
+1,Physical Chemistry and Molecular Physics,B15,joule per mole,molar thermodynamic energy,
+1,Physical Chemistry and Molecular Physics,B16,joule per mole kelvin,"molar heat capacity, molar entropy, molar gas constant",
+1,Physical Chemistry and Molecular Physics,C19,mole per kilogram,molality of solute B,
+1,Physical Chemistry and Molecular Physics,C34,mole,amount of substance,
+1,Physical Chemistry and Molecular Physics,C36,mole per cubic metre,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+1,Physical Chemistry and Molecular Physics,C38,mole per litre,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+1,Physical Chemistry and Molecular Physics,C82,radian square metre per mole,molar optical rotatory power,
+1,Physical Chemistry and Molecular Physics,C83,radian square metre per kilogram,"massic optical, rotatory power, specific optical rotatory power",
+1,Physical Chemistry and Molecular Physics,C86,reciprocal cubic metre,"volumic number of molecules (or particles), number density of molecules (or particles), molecular concentration of B",
+1,Physical Chemistry and Molecular Physics,C95,reciprocal mole,Avogadro constant,
+1,Physical Chemistry and Molecular Physics,D12,siemens square metre per mole,molar conductivity,
+1,Physical Chemistry and Molecular Physics,D43,unified atomic mass unit,mass of molecule,
+1,Physical Chemistry and Molecular Physics,D74,kilogram per mole,molar mass,
+1,Physical Chemistry and Molecular Physics,D93,second per cubic metre,volumic dose,
+1,Solid State Physics,A38,cubic metre per coulomb,Hall coefficient,
+1,Solid State Physics,A6,ampere per square metre kelvin squared,Richardson constant,
+1,Solid State Physics,C85,reciprocal angstrom,"Fermi angular repetency, Fermi angular wave number",
+1,Solid State Physics,C88,reciprocal electron volt per cubic metre,density of states,
+1,Solid State Physics,C90,reciprocal joule per cubic metre,density of states,
+1,Solid State Physics,D48,volt per kelvin,Seebeck coefficient for substances a and b,
+1,Solid State Physics,D94,second per cubic metre radian,spectral concentration of vibrational modes (in terms of angular frequency),
+1,Space and Time,2A,radian per second,angular velocity,Refer ISO/TC12 SI Guide
+1,Space and Time,2B,radian per second squared,angular acceleration,Refer ISO/TC12 SI Guide
+1,Space and Time,A11,angstrom,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1,Space and Time,A12,astronomical unit,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1,Space and Time,C63,parsec,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1,Space and Time,C81,radian,angle (plane),
+1,Space and Time,C92,reciprocal metre,curvature,
+1,Space and Time,D27,steradian,solid angle,
+1,Space and Time,D61,minute [unit of angle],angle (plane),
+1,Space and Time,D62,second [unit of angle],angle (plane),
+1,Space and Time,DAY,day,time,
+1,Space and Time,DD,degree [unit of angle],angle (plane),
+1,Space and Time,H59,square metre per newton,area,
+1,Space and Time,H70,picosecond,time,
+1,Space and Time,HUR,hour,time,
+1,Space and Time,KNT,knot,"velocity, phase velocity, group velocity",
+1,Space and Time,LTR,litre,volume,
+1,Space and Time,MIN,minute [unit of time],time,
+1,Space and Time,MSK,metre per second squared,"acceleration, acceleration of free fall, acceleration due to gravity",
+1,Space and Time,MTK,square metre,area,
+1,Space and Time,MTQ,cubic metre,volume,Synonym: metre cubed
+1,Space and Time,MTR,metre,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1,Space and Time,MTS,metre per second,"velocity, phase velocity, group velocity",
+1,Space and Time,NMI,nautical mile,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1,Space and Time,SEC,second [unit of time],time,
+2,Acoustics,M32,pascal second per litre,acoustic impedance,
+2,Acoustics,P41,decade (logarithmic),logarithmic decrement,"1 Dec := log2 10 3,32 according to the logarithm for frequency range between f1 and f2, when f2/f1 = 10."
+2,Atomic and Nuclear Physics,A42,curie per kilogram,specific activity in a sample,
+2,Atomic and Nuclear Physics,CUR,curie,activity,
+2,Electricity and Magnetism,F08,milliampere per inch,"linear electric current density, lineic electric current, magnetic field strength",
+2,Electricity and Magnetism,F55,ohm per mile (statute mile),lineic resistance,
+2,Electricity and Magnetism,F57,milliampere per pound-force per square inch,current density,
+2,Electricity and Magnetism,H22,volt square inch per pound-force,electric field strength,
+2,Electricity and Magnetism,H23,volt per inch,electric field strength,
+2,Electricity and Magnetism,H34,hertz metre,"coefficient, performance characteristic",
+2,Electricity and Magnetism,H39,megahertz kilometre,"coefficient, performance characteristic",
+2,Electricity and Magnetism,K43,horsepower (electric),"power (for direct current), active power",
+2,Electricity and Magnetism,L42,picosiemens per metre,conductivity,
+2,Electricity and Magnetism,M17,kilohertz metre,"coefficient, performance characteristic",
+2,Electricity and Magnetism,M18,gigahertz metre,"coefficient, performance characteristic",
+2,Electricity and Magnetism,M21,reciprocal kilovolt - ampere reciprocal hour,"coefficient, performance characteristic",
+2,Electricity and Magnetism,M26,gigaohm per metre,resistance load per unit length ,
+2,Electricity and Magnetism,M27,megahertz metre,"coefficient, performance characteristic",
+2,Electricity and Magnetism,N94,franklin,"electric charge, quantity of electricity, electric flux (flux of displacement)","CGS (Centimetre-Gram-Second system) unit of the electrical charge, where the charge amounts to exactly 1 Fr where the force of 1 dyn on an equal load is performed at a distance of 1 cm."
+2,Electricity and Magnetism,N96,biot,"electric current, magnetic potential difference, magnetomotive force,current linkage",CGS (Centimetre-Gram-Second system) unit of the electric power which is defined by a force of 2 dyn per cm between two parallel conductors of infinite length with negligible cross-section in the distance of 1 cm.
+2,Electricity and Magnetism,N97,gilbert,"electric current, magnetic potential difference, magnetomotive force,current linkage","CGS (Centimetre-Gram-Second system) unit of the magnetomotive force, which is defined by the work to increase the magnetic potential of a positive common pol with 1 erg."
+2,Electricity and Magnetism,P12,gamma,"magnetic flux density, magnetic induction, magnetic polarization",Unit of magnetic flow density.
+2,Electricity and Magnetism,P23,ohm circular-mil per foot ,resistivity,Unit of resistivity.
+2,Heat,2I,British thermal unit (international table) per hour,heat flow rate,
+2,Heat,A20,British thermal unit (international table) per second square foot degree Rankine,surface coefficient of heat transfer,
+2,Heat,A21,British thermal unit (international table) per pound degree Rankine,"specific heat capacity at: - constant pressure, -constant volume,- saturation",
+2,Heat,A22,British thermal unit (international table) per second foot degree Rankine,thermal conductivity,
+2,Heat,A23,British thermal unit (international table) per hour square foot degree Rankine,surface coefficient of heat transfer,
+2,Heat,A48,degree Rankine,temperature,Refer ISO 80000-5 (Quantities and units - Part 5: Thermodynamics)
+2,Heat,AZ,British thermal unit (international table) per pound,massic Helmholtz free energy,
+2,Heat,BTU,British thermal unit (international table),"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy",
+2,Heat,E14,kilocalorie (international table),"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy",A unit of heat energy equal to one thousand calories.
+2,Heat,E15,kilocalorie (thermochemical) per hour,heat flow rate,A unit of energy equal to one thousand calories per hour.
+2,Heat,FAH,degree Fahrenheit,fahrenheit temperature,Refer ISO 80000-5 (Quantities and units - Part 5: Thermodynamics)
+2,Heat,J19,degree Fahrenheit hour square foot per British thermal unit (thermochemical),"thermal insulance, coefficient of thermal insulation",
+2,Heat,J20,degree Fahrenheit per kelvin,temperature,
+2,Heat,J21,degree Fahrenheit per bar,temperature,
+2,Heat,J22,degree Fahrenheit hour square foot per British thermal unit (international table),"thermal insulance, coefficient of thermal insulation",
+2,Heat,J23,degree Fahrenheit per hour,temperature variation over time,
+2,Heat,J24,degree Fahrenheit per minute,temperature variation over time,
+2,Heat,J25,degree Fahrenheit per second,temperature variation over time,
+2,Heat,J26,reciprocal degree Fahrenheit,temperature,
+2,Heat,J28,degree Rankine per hour,temperature variation over time,
+2,Heat,J29,degree Rankine per minute,temperature variation over time,
+2,Heat,J30,degree Rankine per second,temperature variation over time,
+2,Heat,J39,British thermal unit (mean),"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy",
+2,Heat,J40,British thermal unit (international table) foot per hour�square foot degree Fahrenheit,thermal conductivity,
+2,Heat,J41,British thermal unit (international table) inch per hour square-foot degree Fahrenheit,thermal conductivity,
+2,Heat,J42,British thermal unit (international table) inch per second square-foot degree Fahrenheit,thermal conductivity,
+2,Heat,J43,British thermal unit (international table) per pound degree Fahrenheit,"heat capacity, entropy",
+2,Heat,J44,British thermal unit (international table) per minute,heat flow rate,
+2,Heat,J45,British thermal unit (international table) per second,heat flow rate,
+2,Heat,J46,British thermal unit (thermochemical) foot per hour square-foot degree Fahrenheit,thermal conductivity,
+2,Heat,J47,British thermal unit (thermochemical) per hour,heat flow rate,
+2,Heat,J48,British thermal unit (thermochemical) inch per hour square-foot degree Fahrenheit,thermal conductivity,
+2,Heat,J49,British thermal unit (thermochemical) inch per second-square foot degree Fahrenheit,thermal conductivity,
+2,Heat,J50,British thermal unit (thermochemical) per pound degree Fahrenheit,"heat capacity, entropy",
+2,Heat,J51,British thermal unit (thermochemical) per minute,heat flow rate,
+2,Heat,J52,British thermal unit (thermochemical) per second,heat flow rate,
+2,Heat,J75,calorie (mean),"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy",
+2,Heat,J76,calorie (international table) per gram degree Celsius,"heat capacity, entropy",
+2,Heat,J78,calorie (thermochemical) per centimetre second degree Celsius,thermal conductivity,
+2,Heat,J79,calorie (thermochemical) per gram degree Celsius,"heat capacity, entropy",
+2,Heat,J81,calorie (thermochemical) per minute,heat flow rate,
+2,Heat,J82,calorie (thermochemical) per second,heat flow rate,
+2,Heat,J83,clo,"thermal insulance, coefficient of thermal insulation",
+2,Heat,K51,kilocalorie (mean),"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy",
+2,Heat,K52,kilocalorie (international table) per hour metre degree Celsius,thermal conductivity,
+2,Heat,K53,kilocalorie (thermochemical),"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy",
+2,Heat,K54,kilocalorie (thermochemical) per minute,heat flow rate,
+2,Heat,K55,kilocalorie (thermochemical) per second,heat flow rate,
+2,Heat,L14,square metre hour degree Celsius per kilocalorie (international table),"thermal insulance, coefficient of thermal insulation",
+2,Heat,M20,reciprocal megakelvin or megakelvin to the power minus one,"linear expansion coefficient, cubic expansion coefficient, relative pressure coefficient",
+2,Heat,N48,watt per square centimetre ,density of heat flow rate,"Derived SI unit watt divided by the power of the 0,01-fold the SI base unit metre by exponent 2."
+2,Heat,N49,watt per square inch ,density of heat flow rate,Derived SI unit watt divided by the power of the unit inch according to the Anglo-American and Imperial system of units by exponent 2.
+2,Heat,N50,British thermal unit (international table) per square foot hour,density of heat flow rate,Unit of the surface heat flux according to the Imperial system of units.
+2,Heat,N51,British thermal unit (thermochemical) per square foot hour,density of heat flow rate,Unit of the surface heat flux according to the Imperial system of units.
+2,Heat,N52,British thermal unit (thermochemical) per square foot minute,density of heat flow rate,Unit of the surface heat flux according to the Imperial system of units.
+2,Heat,N53,British thermal unit (international table) per square foot second,density of heat flow rate,Unit of the surface heat flux according to the Imperial system of units.
+2,Heat,N54,British thermal unit (thermochemical) per square foot second,density of heat flow rate,Unit of the surface heat flux according to the Imperial system of units.
+2,Heat,N55,British thermal unit (international table) per square inch second,density of heat flow rate,Unit of the surface heat flux according to the Imperial system of units.
+2,Heat,N56,calorie (thermochemical) per square centimetre minute,density of heat flow rate,Unit of the surface heat flux according to the Imperial system of units.
+2,Heat,N57,calorie (thermochemical) per square centimetre second,density of heat flow rate,Unit of the surface heat flux according to the Imperial system of units.
+2,Heat,N58,British thermal unit (international table) per cubic foot ,energy density,Unit of the energy density according to the Imperial system of units.
+2,Heat,N59,British thermal unit (thermochemical) per cubic foot,energy density,Unit of the energy density according to the Imperial system of units.
+2,Heat,N60,British thermal unit (international table) per degree Fahrenheit,"heat capacity, entropy",Unit of the heat capacity according to the Imperial system of units.
+2,Heat,N61,British thermal unit (thermochemical) per degree Fahrenheit,"heat capacity, entropy",Unit of the heat capacity according to the Imperial system of units.
+2,Heat,N62,British thermal unit (international table) per degree Rankine,"heat capacity, entropy",Unit of the heat capacity according to the Imperial system of units.
+2,Heat,N63,British thermal unit (thermochemical) per degree Rankine,"heat capacity, entropy",Unit of the heat capacity according to the Imperial system of units.
+2,Heat,N64,British thermal unit (thermochemical) per pound degree Rankine,"heat capacity, entropy",Unit of the heat capacity (British thermal unit according to the international table according to the Rankine degree) according to the Imperial system of units divided by the unit avoirdupois pound according to the avoirdupois system of units.
+2,Heat,N65,kilocalorie (international table) per gram kelvin,"heat capacity, entropy","Unit of the mass-related heat capacity as quotient 1000-fold of the calorie (international table) divided by the product of the 0,001-fold of the SI base units kilogram and kelvin."
+2,Heat,N66,British thermal unit (39 -F) ,"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy",Unit of heat energy according to the Imperial system of units in a reference temperature of 39 -F.
+2,Heat,N67,British thermal unit (59 -F),"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy",Unit of heat energy according to the Imperial system of units in a reference temperature of 59 -F.
+2,Heat,N68,British thermal unit (60 -F) ,"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy",Unit of head energy according to the Imperial system of units at a reference temperature of 60 -F.
+2,Heat,N69,calorie (20 -C) ,"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy","Unit for quantity of heat, which is to be required for 1 g air free water at a constant pressure from 101,325 kPa, to warm up the pressure of standard atmosphere at sea level, from 19,5 -C on 20,5 -C."
+2,Heat,N70,quad (1015 BtuIT),"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy",Unit of heat energy according to the imperial system of units.
+2,Heat,N71,therm (EC),"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy","Unit of heat energy in commercial use, within the EU defined: 1 thm (EC) = 100 000 BtuIT."
+2,Heat,N72,therm (U.S.),"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy",Unit of heat energy in commercial use.
+2,Heat,N73,British thermal unit (thermochemical) per pound,"massic Helmholtz free energy,",Unit of the heat energy according to the Imperial system of units divided the unit avoirdupois pound according to the avoirdupois system of units.
+2,Heat,N74,British thermal unit (international table) per hour square foot degree Fahrenheit,surface coefficient of heat transfer,Unit of the heat transition coefficient according to the Imperial system of units.
+2,Heat,N75,British thermal unit (thermochemical) per hour square foot degree Fahrenheit,surface coefficient of heat transfer,Unit of the heat transition coefficient according to the imperial system of units.
+2,Heat,N76,British thermal unit (international table) per second square foot degree Fahrenheit,surface coefficient of heat transfer,Unit of the heat transition coefficient according to the imperial system of units.
+2,Heat,N77,British thermal unit (thermochemical) per second square foot degree Fahrenheit,surface coefficient of heat transfer,Unit of the heat transition coefficient according to the imperial system of units.
+2,Heat,N83,metre per degree Celcius metre,thermal diffusivity,SI base unit metre divided by the product of the unit degree Celsius and the SI base unit metre.
+2,Heat,N84,degree Fahrenheit hour per British thermal unit (international table),thermal resistance,Non SI-conforming unit of the thermal resistance according to the Imperial system of units.
+2,Heat,N85,degree Fahrenheit hour per British thermal unit (thermochemical),thermal resistance,Non SI-conforming unit of the thermal resistance according to the Imperial system of units.
+2,Heat,N86,degree Fahrenheit second per British thermal unit (international table),thermal resistance,Non SI-conforming unit of the thermal resistance according to the Imperial system of units.
+2,Heat,N87,degree Fahrenheit second per British thermal unit (thermochemical),thermal resistance,Non SI-conforming unit of the thermal resistance according to the Imperial system of units.
+2,Heat,N88,degree Fahrenheit hour square foot per British thermal unit (international table) inch,thermal resistance,Unit of specific thermal resistance according to the Imperial system of units.
+2,Heat,N89,degree Fahrenheit hour square foot per British thermal unit (thermochemical) inch,thermal resistance,Unit of specific thermal resistance according to the Imperial system of units.
+2,Light and Related Electromagnetic Radiations,P25,lumen per square foot ,illuminance,Derived SI unit lumen divided by the power of the unit foot according to the Anglo-American and Imperial system of units by exponent 2.
+2,Light and Related Electromagnetic Radiations,P26,phot,illuminance,"CGS (Centimetre-Gram-Second system) unit of luminance, defined as lumen by square centimetre."
+2,Light and Related Electromagnetic Radiations,P27,footcandle,illuminance,"Non SI conform traditional unit, defined as density of light which impinges on a surface which has a distance of one foot from a light source, which shines with an intensity of an international candle."
+2,Light and Related Electromagnetic Radiations,P28,candela per square inch ,luminance,SI base unit candela divided by the power of unit inch according to the Anglo-American and Imperial system of units by exponent 2.
+2,Light and Related Electromagnetic Radiations,P29,footlambert,luminance,"Unit of the luminance according to the Anglo-American system of units, defined as emitted or reflected luminance of a lm/ft-."
+2,Light and Related Electromagnetic Radiations,P30,lambert,luminance,"CGS (Centimetre-Gram-Second system) unit of luminance, defined as the emitted or reflected luminance by one lumen per square centimetre."
+2,Light and Related Electromagnetic Radiations,P31,stilb,luminance,"CGS (Centimetre-Gram-Second system) unit of luminance, defined as emitted or reflected luminance by one lumen per square centimetre."
+2,Light and Related Electromagnetic Radiations,P32,candela per square foot,luminance,Base unit SI candela divided by the power of the unit foot according to the Anglo-American and Imperial system of units by exponent 2.
+2,Light and Related Electromagnetic Radiations,P35,Hefner-Kerze,luminous intensity,"Obsolete, non-legal unit of the power in Germany relating to DIN 1301-3:1979: 1 HK = 0,903 cd."
+2,Light and Related Electromagnetic Radiations,P36,international candle ,luminous intensity,"Obsolete, non-legal unit of the power in Germany relating to DIN 1301-3:1979: 1 HK = 1,019 cd."
+2,Light and Related Electromagnetic Radiations,P37,British thermal unit (international table) per square foot,"radiant energy fluence, radiance exposure",Unit of the areal-related energy transmission according to the Imperial system of units.
+2,Light and Related Electromagnetic Radiations,P38,British thermal unit (thermochemical) per square foot,"radiant energy fluence, radiance exposure",Unit of the areal-related energy transmission according to the Imperial system of units.
+2,Light and Related Electromagnetic Radiations,P39,calorie (thermochemical) per square centimetre ,"radiant energy fluence, radiance exposure",Unit of the areal-related energy transmission according to the Imperial system of units.
+2,Light and Related Electromagnetic Radiations,P40,langley,"radiant energy fluence, radiance exposure",CGS (Centimetre-Gram-Second system) unit of the areal-related energy transmission (as a measure of the incident quantity of heat of solar radiation on the earth's surface).
+2,Mechanics,37,ounce per square foot,"surface density, areic mass",
+2,Mechanics,80,pound per square inch absolute,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+2,Mechanics,85,foot pound-force,"work, energy, potential energy, kinetic energy",
+2,Mechanics,87,pound per cubic foot,"density, mass density, volumic mass",
+2,Mechanics,89,poise,viscosity (dynamic viscosity),
+2,Mechanics,91,stokes,kinematic viscosity,
+2,Mechanics,2K,cubic foot per hour,volume flow rate,
+2,Mechanics,2L,cubic foot per minute,volume flow rate,
+2,Mechanics,4C,centistokes,kinematic viscosity,
+2,Mechanics,4Q,ounce inch,"moment of force, moment of a couple, torque",
+2,Mechanics,4R,ounce foot,"moment of force, moment of a couple, torque",
+2,Mechanics,4U,pound per hour,mass flow rate,
+2,Mechanics,4W,ton (US) per hour,mass flow rate,
+2,Mechanics,5A,barrel (US) per minute,volume flow rate,
+2,Mechanics,A74,foot pound-force per second,power,
+2,Mechanics,APZ,troy ounce or apothecary ounce,mass,
+2,Mechanics,BHP,brake horse power,power,
+2,Mechanics,C7,centipoise,viscosity (dynamic viscosity),
+2,Mechanics,C78,pound-force,"force, weight",
+2,Mechanics,CWA,hundred pound (cwt) / hundred weight (US),mass,
+2,Mechanics,CWI,hundred weight (UK),mass,
+2,Mechanics,D5,kilogram per square centimetre,"surface density, areic mass",
+2,Mechanics,D69,inch to the fourth power,second polar moment of area,
+2,Mechanics,E18,tonne per hour,mass flow rate,A unit of weight or mass equal to one tonne per hour.
+2,Mechanics,E41,kilogram-force per square millimetre,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",A unit of pressure defining the number of kilograms force per square millimetre.
+2,Mechanics,E42,kilogram-force per square centimetre,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",A unit of pressure defining the number of kilograms force per square centimetre.
+2,Mechanics,F06,poise per bar,viscosity (dynamic viscosity),
+2,Mechanics,F13,slug,mass,A unit of mass. One slug is the mass accelerated at 1 foot per second per second by a force of 1 pound.
+2,Mechanics,F17,pound-force per foot,force divided by length,
+2,Mechanics,F20,pound inch squared,moment of inertia (dynamic moment of inertia),
+2,Mechanics,F21,pound-force inch,"moment of force, moment of a couple, torque",
+2,Mechanics,F22,pound-force foot per ampere,"moment of force, moment of a couple, torque",
+2,Mechanics,F48,pound-force per inch,force divided by length,
+2,Mechanics,F78,inch of water,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+2,Mechanics,F79,inch of mercury,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+2,Mechanics,F80,water horse power,power,A unit of power defining the amount of power required to move a given volume of water against acceleration of gravity to a specified elevation (pressure head).
+2,Mechanics,F86,poise per kelvin,viscosity (dynamic viscosity),
+2,Mechanics,FP,pound per square foot,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+2,Mechanics,G08,square inch per second,kinematic viscosity,
+2,Mechanics,G10,stokes per kelvin,kinematic viscosity,
+2,Mechanics,G2,US gallon per minute,volume flow rate,
+2,Mechanics,G20,pound-force foot per pound,"moment of force, moment of a couple, torque",
+2,Mechanics,G3,Imperial gallon per minute,volume flow rate,
+2,Mechanics,G32,ounce (avoirdupois) per cubic yard,"density, mass density, volumic mass",
+2,Mechanics,G46,stokes per bar,kinematic viscosity,
+2,Mechanics,G50,gallon (US) per hour,volume flow rate,
+2,Mechanics,G56,cubic inch per hour,volume flow rate,
+2,Mechanics,G57,cubic inch per minute,volume flow rate,
+2,Mechanics,G58,cubic inch per second,volume flow rate,
+2,Mechanics,GE,pound per gallon (US),"density, mass density, volumic mass",
+2,Mechanics,GRN,grain,mass,
+2,Mechanics,H41,"newton metre watt to the power minus 0,5","moment of force, moment of a couple, torque",
+2,Mechanics,IA,inch pound (pound inch),"moment of force, moment of a couple, torque",
+2,Mechanics,J32,micropoise,viscosity (dynamic viscosity),
+2,Mechanics,J34,microgram per cubic metre kelvin,"density, mass density, volumic mass",
+2,Mechanics,J35,microgram per cubic metre bar,"density, mass density, volumic mass",
+2,Mechanics,J56,bar per bar,pressure ratio,
+2,Mechanics,J58,barrel (UK petroleum) per minute,volume flow rate,
+2,Mechanics,J59,barrel (UK petroleum) per day,volume flow rate,
+2,Mechanics,J60,barrel (UK petroleum) per hour,volume flow rate,
+2,Mechanics,J61,barrel (UK petroleum) per second,volume flow rate,
+2,Mechanics,J62,barrel (US petroleum) per hour,volume flow rate,
+2,Mechanics,J63,barrel (US petroleum) per second,volume flow rate,
+2,Mechanics,J64,bushel (UK) per day,volume flow rate,
+2,Mechanics,J65,bushel (UK) per hour,volume flow rate,
+2,Mechanics,J66,bushel (UK) per minute,volume flow rate,
+2,Mechanics,J67,bushel (UK) per second,volume flow rate,
+2,Mechanics,J68,bushel (US dry) per day,volume flow rate,
+2,Mechanics,J69,bushel (US dry) per hour,volume flow rate,
+2,Mechanics,J70,bushel (US dry) per minute,volume flow rate,
+2,Mechanics,J71,bushel (US dry) per second,volume flow rate,
+2,Mechanics,J73,centipoise per kelvin,viscosity (dynamic viscosity),
+2,Mechanics,J74,centipoise per bar,viscosity (dynamic viscosity),
+2,Mechanics,J95,ounce (UK fluid) per day,volume flow rate,
+2,Mechanics,J96,ounce (UK fluid) per hour,volume flow rate,
+2,Mechanics,J97,ounce (UK fluid) per minute,volume flow rate,
+2,Mechanics,J98,ounce (UK fluid) per second,volume flow rate,
+2,Mechanics,J99,ounce (US fluid) per day,volume flow rate,
+2,Mechanics,K10,ounce (US fluid) per hour,volume flow rate,
+2,Mechanics,K11,ounce (US fluid) per minute,volume flow rate,
+2,Mechanics,K12,ounce (US fluid) per second,volume flow rate,
+2,Mechanics,K15,foot pound-force per hour,power,
+2,Mechanics,K16,foot pound-force per minute,power,
+2,Mechanics,K22,cubic foot per day,volume flow rate,
+2,Mechanics,K26,gallon (UK) per day,volume flow rate,
+2,Mechanics,K27,gallon (UK) per hour,volume flow rate,
+2,Mechanics,K28,gallon (UK) per second,volume flow rate,
+2,Mechanics,K30,gallon (US liquid) per second,volume flow rate,
+2,Mechanics,K31,gram-force per square centimetre,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+2,Mechanics,K32,gill (UK) per day,volume flow rate,
+2,Mechanics,K33,gill (UK) per hour,volume flow rate,
+2,Mechanics,K34,gill (UK) per minute,volume flow rate,
+2,Mechanics,K35,gill (UK) per second,volume flow rate,
+2,Mechanics,K36,gill (US) per day,volume flow rate,
+2,Mechanics,K37,gill (US) per hour,volume flow rate,
+2,Mechanics,K38,gill (US) per minute,volume flow rate,
+2,Mechanics,K39,gill (US) per second,volume flow rate,
+2,Mechanics,K41,grain per gallon (US),"density, mass density, volumic mass",
+2,Mechanics,K42,horsepower (boiler),power,
+2,Mechanics,K64,pound (avoirdupois) per degree Fahrenheit,mass,
+2,Mechanics,K65,pound (avoirdupois) square foot,moment of inertia (dynamic moment of inertia),
+2,Mechanics,K66,pound (avoirdupois) per day,mass flow rate,
+2,Mechanics,K67,pound per foot hour,viscosity (dynamic viscosity),
+2,Mechanics,K68,pound per foot second,viscosity (dynamic viscosity),
+2,Mechanics,K69,pound (avoirdupois) per cubic foot degree Fahrenheit,"density, mass density, volumic mass",
+2,Mechanics,K70,pound (avoirdupois) per cubic foot psi,"density, mass density, volumic mass",
+2,Mechanics,K71,pound (avoirdupois) per gallon (UK),"density, mass density, volumic mass",
+2,Mechanics,K73,pound (avoirdupois) per hour degree Fahrenheit,mass flow rate,
+2,Mechanics,K74,pound (avoirdupois) per hour psi,mass flow rate,
+2,Mechanics,K75,pound (avoirdupois) per cubic inch degree Fahrenheit,"density, mass density, volumic mass",
+2,Mechanics,K76,pound (avoirdupois) per cubic inch psi,"density, mass density, volumic mass",
+2,Mechanics,K77,pound (avoirdupois) per psi,"density, mass density, volumic mass",
+2,Mechanics,K78,pound (avoirdupois) per minute,mass flow rate,
+2,Mechanics,K79,pound (avoirdupois) per minute degree Fahrenheit,mass flow rate,
+2,Mechanics,K80,pound (avoirdupois) per minute psi,mass flow rate,
+2,Mechanics,K81,pound (avoirdupois) per second,mass flow rate,
+2,Mechanics,K82,pound (avoirdupois) per second degree Fahrenheit,mass flow rate,
+2,Mechanics,K83,pound (avoirdupois) per second psi,mass flow rate,
+2,Mechanics,K84,pound per cubic yard,"density, mass density, volumic mass",
+2,Mechanics,K85,pound-force per square foot,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+2,Mechanics,K86,pound-force per square inch degree Fahrenheit,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+2,Mechanics,K87,psi cubic inch per second,leakage rate of gas,
+2,Mechanics,K88,psi litre per second,leakage rate of gas,
+2,Mechanics,K89,psi cubic metre per second,leakage rate of gas,
+2,Mechanics,K90,psi cubic yard per second,leakage rate of gas,
+2,Mechanics,K91,pound-force second per square foot,viscosity (dynamic viscosity),
+2,Mechanics,K92,pound-force second per square inch,viscosity (dynamic viscosity),
+2,Mechanics,K94,quart (UK liquid) per day,volume flow rate,
+2,Mechanics,K95,quart (UK liquid) per hour,volume flow rate,
+2,Mechanics,K96,quart (UK liquid) per minute,volume flow rate,
+2,Mechanics,K97,quart (UK liquid) per second,volume flow rate,
+2,Mechanics,K98,quart (US liquid) per day,volume flow rate,
+2,Mechanics,K99,quart (US liquid) per hour,volume flow rate,
+2,Mechanics,KWN,Kilowatt hour per normalized cubic metre,,Kilowatt hour per normalized cubic metre (temperature 0-C and pressure 101325 millibars ).
+2,Mechanics,KWS,Kilowatt hour per standard cubic metre,,Kilowatt hour per standard cubic metre (temperature 15-C and pressure 101325 millibars).
+2,Mechanics,L10,quart (US liquid) per minute,volume flow rate,
+2,Mechanics,L11,quart (US liquid) per second,volume flow rate,
+2,Mechanics,L15,millipascal second per kelvin,viscosity (dynamic viscosity),
+2,Mechanics,L16,millipascal second per bar,viscosity (dynamic viscosity),
+2,Mechanics,L17,milligram per cubic metre kelvin,"density, mass density, volumic mass",
+2,Mechanics,L18,milligram per cubic metre bar,"density, mass density, volumic mass",
+2,Mechanics,L33,ounce (avoirdupois) per day,mass flow rate,
+2,Mechanics,L34,ounce (avoirdupois) per hour,mass flow rate,
+2,Mechanics,L35,ounce (avoirdupois) per minute,mass flow rate,
+2,Mechanics,L36,ounce (avoirdupois) per second,mass flow rate,
+2,Mechanics,L37,ounce (avoirdupois) per gallon (UK),"density, mass density, volumic mass",
+2,Mechanics,L38,ounce (avoirdupois) per gallon (US),"density, mass density, volumic mass",
+2,Mechanics,L39,ounce (avoirdupois) per cubic inch,"density, mass density, volumic mass",
+2,Mechanics,L40,ounce (avoirdupois)-force,"force, weight",
+2,Mechanics,L41,ounce (avoirdupois)-force inch,"moment of force, moment of a couple, torque",
+2,Mechanics,L44,peck (UK) per day,volume flow rate,
+2,Mechanics,L45,peck (UK) per hour,volume flow rate,
+2,Mechanics,L46,peck (UK) per minute,volume flow rate,
+2,Mechanics,L47,peck (UK) per second,volume flow rate,
+2,Mechanics,L48,peck (US dry) per day,volume flow rate,
+2,Mechanics,L49,peck (US dry) per hour,volume flow rate,
+2,Mechanics,L50,peck (US dry) per minute,volume flow rate,
+2,Mechanics,L51,peck (US dry) per second,volume flow rate,
+2,Mechanics,L52,psi per psi,pressure ratio,
+2,Mechanics,L53,pint (UK) per day,volume flow rate,
+2,Mechanics,L54,pint (UK) per hour,volume flow rate,
+2,Mechanics,L55,pint (UK) per minute,volume flow rate,
+2,Mechanics,L56,pint (UK) per second,volume flow rate,
+2,Mechanics,L57,pint (US liquid) per day,volume flow rate,
+2,Mechanics,L58,pint (US liquid) per hour,volume flow rate,
+2,Mechanics,L59,pint (US liquid) per minute,volume flow rate,
+2,Mechanics,L60,pint (US liquid) per second,volume flow rate,
+2,Mechanics,L63,slug per day,mass flow rate,
+2,Mechanics,L64,slug per foot second,viscosity (dynamic viscosity),
+2,Mechanics,L65,slug per cubic foot,"density, mass density, volumic mass",
+2,Mechanics,L66,slug per hour,mass flow rate,
+2,Mechanics,L67,slug per minute,mass flow rate,
+2,Mechanics,L68,slug per second,mass flow rate,
+2,Mechanics,L69,tonne per kelvin,mass,
+2,Mechanics,L70,tonne per bar,"density, mass density, volumic mass",
+2,Mechanics,L71,tonne per day,mass flow rate,
+2,Mechanics,L72,tonne per day kelvin,mass flow rate,
+2,Mechanics,L73,tonne per day bar,mass flow rate,
+2,Mechanics,L74,tonne per hour kelvin,mass flow rate,
+2,Mechanics,L75,tonne per hour bar,mass flow rate,
+2,Mechanics,L76,tonne per cubic metre kelvin,"density, mass density, volumic mass",
+2,Mechanics,L77,tonne per cubic metre bar,"density, mass density, volumic mass",
+2,Mechanics,L78,tonne per minute,mass flow rate,
+2,Mechanics,L79,tonne per minute kelvin,mass flow rate,
+2,Mechanics,L80,tonne per minute bar,mass flow rate,
+2,Mechanics,L81,tonne per second,mass flow rate,
+2,Mechanics,L82,tonne per second kelvin,mass flow rate,
+2,Mechanics,L83,tonne per second bar,mass flow rate,
+2,Mechanics,L85,ton long per day,mass flow rate,
+2,Mechanics,L87,ton short per degree Fahrenheit,mass,
+2,Mechanics,L88,ton short per day,mass flow rate,
+2,Mechanics,L89,ton short per hour degree Fahrenheit,mass flow rate,
+2,Mechanics,L90,ton short per hour psi,mass flow rate,
+2,Mechanics,L91,ton short per psi,"density, mass density, volumic mass",
+2,Mechanics,L92,ton (UK long) per cubic yard,"density, mass density, volumic mass",
+2,Mechanics,L93,ton (US short) per cubic yard,"density, mass density, volumic mass",
+2,Mechanics,L94,ton-force (US short),"force, weight",
+2,Mechanics,LA,pound per cubic inch,"density, mass density, volumic mass",
+2,Mechanics,LBR,pound,mass,
+2,Mechanics,LTN,ton (UK) or long ton (US),mass,Synonym: gross ton (2240 lb)
+2,Mechanics,M12,cubic yard per day,volume flow rate,
+2,Mechanics,M13,cubic yard per hour,volume flow rate,
+2,Mechanics,M15,cubic yard per minute,volume flow rate,
+2,Mechanics,M16,cubic yard per second,volume flow rate,
+2,Mechanics,M74,kilogram per pascal,"density, mass density, volumic mass",SI base unit kilogram divided by the derived SI unit pascal.
+2,Mechanics,M75,kilopound-force,"force, weight",1000-fold of the unit of the force pound-force (lbf) according to the Anglo-American system of units with the relationship.
+2,Mechanics,M76,poundal,"force, weight","Non SI-conforming unit of the power, which corresponds to a mass of a pound multiplied with the acceleration of a foot per square second."
+2,Mechanics,M77,kilogram metre per second squared,"force, weight",Product of the SI base unit kilogram and the SI base unit metre divided by the power of the SI base unit second by exponent 2.
+2,Mechanics,M78,pond,"force, weight","0,001-fold of the unit of the weight, defined as a mass of 1 kg which finds out about a weight strength from 1 kp by the gravitational force at sea level which corresponds to a strength of 9,806 65 newton."
+2,Mechanics,M79,square foot per hour ,kinematic viscosity,Power of the unit foot according to the Anglo-American and Imperial system of units by exponent 2 divided by the unit of time hour.
+2,Mechanics,M80,stokes per pascal,kinematic viscosity,CGS (Centimetre-Gram-Second system) unit stokes divided by the derived SI unit pascal.
+2,Mechanics,M81,square centimetre per second,kinematic viscosity,"0,000 1-fold of the power of the SI base unit metre by exponent 2 divided by the SI base unit second."
+2,Mechanics,M83,denier ,"linear density, linear mass",Traditional unit for the indication of the linear mass of textile fibers and yarns.
+2,Mechanics,M84,pound per yard ,"linear density, linear mass",Unit for linear mass according to avoirdupois system of units.
+2,Mechanics,M85,"ton, assay",mass,Non SI-conforming unit of the mass used in the mineralogy to determine the concentration of precious metals in ore according to the mass of the precious metal in milligrams in a sample of the mass of an assay sound (number of troy ounces in a short ton (1 000 lb)).
+2,Mechanics,M86,pfund,mass,Outdated unit of the mass used in Germany.
+2,Mechanics,M88,tonne per month,mass flow rate,Unit tonne divided by the unit month.
+2,Mechanics,M89,tonne per year,mass flow rate,Unit tonne divided by the unit year with 365 days.
+2,Mechanics,M90,kilopound per hour,mass flow rate,1000-fold of the unit of the mass avoirdupois pound according to the avoirdupois unit system divided by the unit hour.
+2,Mechanics,M91,pound per pound,mass ratio,Proportion of the mass consisting of the avoirdupois pound according to the avoirdupois unit system divided by the avoirdupois pound according to the avoirdupois unit system.
+2,Mechanics,M92,pound-force foot,"moment of force, moment of a couple, torque",Product of the unit pound-force according to the Anglo-American system of units and the unit foot according to the Anglo-American and the Imperial system of units.
+2,Mechanics,M95,poundal foot,"moment of force, moment of a couple, torque",Product of the non SI-conforming unit of the force poundal and the unit foot according to the Anglo-American and Imperial system of units .
+2,Mechanics,M96,poundal inch,"moment of force, moment of a couple, torque",Product of the non SI-conforming unit of the force poundal and the unit inch according to the Anglo-American and Imperial system of units .
+2,Mechanics,M97,dyne metre,"moment of force, moment of a couple, torque",CGS (Centimetre-Gram-Second system) unit of the rotational moment.
+2,Mechanics,N10,pound foot per second,momentum,Product of the avoirdupois pound according to the avoirdupois unit system and the unit foot according to the Anglo-American and Imperial system of units divided by the SI base unit second.
+2,Mechanics,N11,pound inch per second,momentum,Product of the avoirdupois pound according to the avoirdupois unit system and the unit inch according to the Anglo-American and Imperial system of units divided by the SI base unit second.
+2,Mechanics,N12,Pferdestaerke,power,"Obsolete unit of the power relating to DIN 1301-3:1979: 1 PS = 735,498 75 W."
+2,Mechanics,N13,centimetre of mercury (0 -C),"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression","Non SI-conforming unit of pressure, at which a value of 1 cmHg meets the static pressure, which is generated by a mercury at a temperature of 0 -C with a height of 1 centimetre ."
+2,Mechanics,N14,centimetre of water (4 -C),"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression","Non SI-conforming unit of pressure, at which a value of 1 cmH2O meets the static pressure, which is generated by a head of water at a temperature of 4 -C with a height of 1 centimetre ."
+2,Mechanics,N15,foot of water (39.2 -F),"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression","Non SI-conforming unit of pressure according to the Anglo-American and Imperial system for units, whereas the value of 1 ftH2O is equivalent to the static pressure, which is generated by a head of water at a temperature 39,2-F with a height of 1 foot ."
+2,Mechanics,N16,inch of mercury (32 -F),"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression","Non SI-conforming unit of pressure according to the Anglo-American and Imperial system for units, whereas the value of 1 inHg meets the static pressure, which is generated by a mercury at a temperature of 32-F with a height of 1 inch."
+2,Mechanics,N17,inch of mercury (60 -F),"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression","Non SI-conforming unit of pressure according to the Anglo-American and Imperial system for units, whereas the value of 1 inHg meets the static pressure, which is generated by a mercury at a temperature of 60-F with a height of 1 inch."
+2,Mechanics,N18,inch of water (39.2 -F),"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression","Non SI-conforming unit of pressure according to the Anglo-American and Imperial system for units, whereas the value of 1 inH2O meets the static pressure, which is generated by a head of water at a temperature of 39,2-F with a height of 1 inch ."
+2,Mechanics,N19,inch of water (60 -F),"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression","Non SI-conforming unit of pressure according to the Anglo-American and Imperial system for units, whereas the value of 1 inH2O meets the static pressure, which is generated by a head of water at a temperature of 60-F with a height of 1 inch ."
+2,Mechanics,N20,kip per square inch,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",Non SI-conforming unit of the pressure according to the Anglo-American system of units as the 1000-fold of the unit of the force pound-force divided by the power of the unit inch by exponent 2.
+2,Mechanics,N21,poundal per square foot ,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression","Non SI-conforming unit of pressure by the Imperial system of units according to NIST: 1 pdl/ft- = 1,488 164 Pa."
+2,Mechanics,N22,ounce (avoirdupois) per square inch ,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",Unit of the surface specific mass (avoirdupois ounce according to the avoirdupois system of units according to the surface square inch according to the Anglo-American and Imperial system of units).
+2,Mechanics,N23,conventional metre of water,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression","Not SI-conforming unit of pressure, whereas a value of 1 mH2O is equivalent to the static pressure, which is produced by one metre high water column ."
+2,Mechanics,N24,gram per square millimetre,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression","0,001-fold of the SI base unit kilogram divided by the 0.000 001-fold of the power of the SI base unit meter by exponent 2."
+2,Mechanics,N25,pound per square yard,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",Unit for areal-related mass as a unit pound according to the avoirdupois unit system divided by the power of the unit yard according to the Anglo-American and Imperial system of units with exponent 2.
+2,Mechanics,N26,poundal per square inch,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",Non SI-conforming unit of the pressure according to the Imperial system of units (poundal by square inch).
+2,Mechanics,N27,foot to the fourth power ,second polar moment of area,"Power of the unit foot according to the Anglo-American and Imperial system of units by exponent 4 according to NIST: 1 ft4 = 8,630 975 m4."
+2,Mechanics,N29,cubic foot per pound,"specific volume, massic volume",Power of the unit foot according to the Anglo-American and Imperial system of units by exponent 3 divided by the unit avoirdupois pound according to the avoirdupois unit system.
+2,Mechanics,N30,cubic inch per pound,"specific volume, massic volume",Power of the unit inch according to the Anglo-American and Imperial system of units by exponent 3 divided by the avoirdupois pound according to the avoirdupois unit system .
+2,Mechanics,N32,poundal per inch,surface tension,Non SI-conforming unit of the surface tension according to the Imperial unit system as quotient poundal by inch.
+2,Mechanics,N33,pound-force per yard,surface tension,Unit of force per unit length based on the Anglo-American system of units.
+2,Mechanics,N34,poundal second per square foot ,viscosity (dynamic viscosity),Non SI-conforming unit of viscosity.
+2,Mechanics,N35,poise per pascal,viscosity (dynamic viscosity),CGS (Centimetre-Gram-Second system) unit poise divided by the derived SI unit pascal.
+2,Mechanics,N42,poundal second per square inch,viscosity (dynamic viscosity),Non SI-conforming unit of dynamic viscosity according to the Imperial system of units as product unit of the pressure (poundal by square inch) multiplied by the SI base unit second.
+2,Mechanics,N43,pound per foot minute,viscosity (dynamic viscosity),Unit of the dynamic viscosity according to the Anglo-American unit system.
+2,Mechanics,N44,pound per foot day,viscosity (dynamic viscosity),Unit of the dynamic viscosity according to the Anglo-American unit system.
+2,Mechanics,N46,foot poundal,"work, energy, potential energy, kinetic energy",Unit of the work (force-path).
+2,Mechanics,N47,inch poundal,"work, energy, potential energy, kinetic energy",Unit of work (force multiplied by path) according to the Imperial system of units as a product unit inch multiplied by poundal.
+2,Mechanics,ON,ounce per square yard,"surface density, areic mass",
+2,Mechanics,ONZ,ounce (avoirdupois),mass,
+2,Mechanics,P2,pound per foot,"linear density, linear mass",
+2,Mechanics,PO,pound per inch of length,"linear density, linear mass",
+2,Mechanics,PS,pound-force per square inch,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+2,Mechanics,Q37,Standard cubic metre per day,volume flow rate,Standard cubic metre (temperature 15-C and pressure 101325 millibars ) per day
+2,Mechanics,Q38,Standard cubic metre per hour,volume flow rate,Standard cubic metre (temperature 15-C and pressure 101325 millibars ) per hour
+2,Mechanics,Q39,Normalized cubic metre per day,volume flow rate,Normalized cubic metre (temperature 0-C and pressure 101325 millibars ) per day
+2,Mechanics,Q40,Normalized cubic metre per hour,volume flow rate,Normalized cubic metre (temperature 0-C and pressure 101325 millibars ) per hour
+2,Mechanics,Q41,Joule per normalised cubic metre,,Joule per normalised cubic metre (temperature 0-C and pressure 101325 millibars).
+2,Mechanics,Q42,Joule per standard cubic metre,,Joule per standard cubic metre (temperature 15-C and pressure 101325 millibars).
+2,Mechanics,S3,square foot per second,kinematic viscosity,Synonym: foot squared per second
+2,Mechanics,STI,stone (UK),mass,
+2,Mechanics,STN,ton (US) or short ton (UK/US),mass,Synonym: net ton (2000 lb)
+2,Miscellaneous,P83,standard atmosphere per metre,hardness index,Outdated unit of the pressure divided by the SI base unit metre.
+2,Miscellaneous,P84,technical atmosphere per metre,hardness index,Obsolete and non-legal unit of the pressure which is generated by a 10 metre water column divided by the SI base unit metre.
+2,Miscellaneous,P85,torr per metre,hardness index,CGS (Centimetre-Gram-Second system) unit of the pressure divided by the SI base unit metre.
+2,Miscellaneous,P86,psi per inch,hardness index,Compound unit for pressure (pound-force according to the Anglo-American unit system divided by the power of the unit inch according to the Anglo-American and Imperial system of units with the exponent 2) divided by the unit inch according to the Anglo-American and Imperial system of units .
+2,Nuclear Reactions and Ionizing Radiations,2C,roentgen,exposure,
+2,Nuclear Reactions and Ionizing Radiations,2Y,milliroentgen,exposure,
+2,Nuclear Reactions and Ionizing Radiations,C80,rad,absorbed dose,
+2,Nuclear Reactions and Ionizing Radiations,D16,square centimetre per erg,spectral cross-section,
+2,Nuclear Reactions and Ionizing Radiations,D17,square centimetre per steradian erg,spectral angular cross-section,
+2,Nuclear Reactions and Ionizing Radiations,D6,roentgen per second,exposure rate,
+2,Nuclear Reactions and Ionizing Radiations,D91,rem,dose equivalent,
+2,Nuclear Reactions and Ionizing Radiations,J53,coulomb square metre per kilogram,exposure,
+2,Nuclear Reactions and Ionizing Radiations,KR,kiloroentgen,exposure,
+2,Nuclear Reactions and Ionizing Radiations,L31,milliroentgen aequivalent men,dose equivalent,
+2,Nuclear Reactions and Ionizing Radiations,P65,sievert per second,equivalence dose output,Derived SI unit sievert divided by the SI base unit second.
+2,Nuclear Reactions and Ionizing Radiations,P66,millisievert per second,equivalence dose output,"0,001-fold of the derived SI unit sievert divided by the SI base unit second."
+2,Nuclear Reactions and Ionizing Radiations,P67,microsievert per second,equivalence dose output,"0,000 001-fold of the derived SI unit sievert divided by the SI base unit second."
+2,Nuclear Reactions and Ionizing Radiations,P68,nanosievert per second,equivalence dose output,"0,000 000 001-fold of the derived SI unit sievert divided by the SI base unit second."
+2,Nuclear Reactions and Ionizing Radiations,P69,rem per second,equivalence dose output,"Unit for the equivalent tin rate relating to DIN 1301-3:1979: 1 rem/s = 0,01 J/(kg-s) = 1 Sv/s."
+2,Nuclear Reactions and Ionizing Radiations,P70,sievert per hour,equivalence dose output,Derived SI unit sievert divided by the unit hour.
+2,Nuclear Reactions and Ionizing Radiations,P71,millisievert per hour,equivalence dose output,"0,001-fold of the derived SI unit sievert divided by the unit hour."
+2,Nuclear Reactions and Ionizing Radiations,P72,microsievert per hour,equivalence dose output,"0,000 001-fold of the derived SI unit sievert divided by the unit hour."
+2,Nuclear Reactions and Ionizing Radiations,P73,nanosievert per hour,equivalence dose output,"0,000 000 001-fold of the derived SI unit sievert divided by the unit hour."
+2,Nuclear Reactions and Ionizing Radiations,P74,sievert per minute,equivalence dose output,Derived SI unit sievert divided by the unit minute.
+2,Nuclear Reactions and Ionizing Radiations,P75,millisievert per minute,equivalence dose output,"0,001-fold of the derived SI unit sievert divided by the unit minute."
+2,Nuclear Reactions and Ionizing Radiations,P76,microsievert per minute,equivalence dose output,"0,000 001-fold of the derived SI unit sievert divided by the unit minute."
+2,Nuclear Reactions and Ionizing Radiations,P77,nanosievert per minute,equivalence dose output,"0,000 000 001-fold of the derived SI unit sievert divided by the unit minute."
+2,Nuclear Reactions and Ionizing Radiations,P78,reciprocal square inch,particle fluence,Complement of the power of the unit inch according to the Anglo-American and Imperial system of units by exponent 2.
+2,Periodic and related phenomena,OPM,oscillations per minute,frequency,The number of oscillations per minute.
+2,Physical Chemistry and Molecular Physics,K20,reciprocal cubic foot,"volumic number of molecules (or particles), number density of molecules (or particles), molecular concentration of B",
+2,Physical Chemistry and Molecular Physics,K49,reciprocal cubic inch,"volumic number of molecules (or particles), number density of molecules (or particles), molecular concentration of B",
+2,Physical Chemistry and Molecular Physics,K59,kilomole per cubic metre kelvin,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+2,Physical Chemistry and Molecular Physics,K60,kilomole per cubic metre bar,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+2,Physical Chemistry and Molecular Physics,K63,reciprocal litre,"volumic number of molecules (or particles), number density of molecules (or particles), molecular concentration of B",
+2,Physical Chemistry and Molecular Physics,K93,reciprocal psi,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+2,Physical Chemistry and Molecular Physics,L24,mole per kilogram kelvin,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+2,Physical Chemistry and Molecular Physics,L25,mole per kilogram bar,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+2,Physical Chemistry and Molecular Physics,L26,mole per litre kelvin,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+2,Physical Chemistry and Molecular Physics,L27,mole per litre bar,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+2,Physical Chemistry and Molecular Physics,L28,mole per cubic metre kelvin,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+2,Physical Chemistry and Molecular Physics,L29,mole per cubic metre bar,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+2,Physical Chemistry and Molecular Physics,M10,reciprocal cubic yard,"volumic number of molecules (or particles), number density of molecules (or particles), molecular concentration of B",
+2,Physical Chemistry and Molecular Physics,P44,pound mole,amount of substance,Non SI-conforming unit of quantity of a substance relating that one pound mole of a chemical composition corresponds to the same number of pounds as the molecular weight of one molecule of this composition in atomic mass units.
+2,Physical Chemistry and Molecular Physics,P45,pound mole per second,catalytic activity,Non SI-conforming unit of the power of the amount of substance non-SI compliant unit of the molar flux relating that a pound mole of a chemical composition the same number of pound corresponds like the molecular weight of a molecule of this composition in atomic mass units.
+2,Physical Chemistry and Molecular Physics,P46,pound mole per minute,catalytic activity,Non SI-conforming unit of the power of the amount of substance non-SI compliant unit of the molar flux relating that a pound mole of a chemical composition the same number of pound corresponds like the molecular weight of a molecule of this composition in atomic mass units.
+2,Physical Chemistry and Molecular Physics,P48,pound mole per pound,ionic strength,Non SI-conforming unit of the material molar flux divided by the avoirdupois pound for mass according to the avoirdupois unit system.
+2,Physical Chemistry and Molecular Physics,Q30,pH (potential of Hydrogen),acidity and alkalinity,The activity of the (solvated) hydrogen ion (a logarithmic measure used to state the acidity or alkalinity of a chemical solution).
+2,Solid State Physics,P53,unit pole ,magnetic flux quantum,CGS (Centimetre-Gram-Second system) unit for magnetic flux of a magnetic pole (according to the interaction of identical poles of 1 dyn at a distance of a cm).
+2,Space and Time,77,milli-inch,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2,Space and Time,A73,foot per second squared,"acceleration, acceleration of free fall, acceleration due to gravity",
+2,Space and Time,A91,gon,angle (plane),Synonym: grade
+2,Space and Time,ACR,acre,area,
+2,Space and Time,AK,fathom,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2,Space and Time,ANN,year,time,"Unit of time equal to 365,25 days. Synonym: Julian year"
+2,Space and Time,AWG,american wire gauge,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",A unit of distance used for measuring the diameter of small tubes or wires such as the outer diameter of hypotermic or suture needles.
+2,Space and Time,B57,light year,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",A unit of length defining the distance that light travels in a vacuum in one year.
+2,Space and Time,BLD,dry barrel (US),volume,
+2,Space and Time,BLL,barrel (US),volume,
+2,Space and Time,BUA,bushel (US),volume,
+2,Space and Time,BUI,bushel (UK),volume,
+2,Space and Time,D42,tropical year,time,
+2,Space and Time,F49,rod [unit of distance],"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",A unit of distance equal to 5.5 yards (16 feet 6 inches).
+2,Space and Time,FOT,foot,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2,Space and Time,FR,foot per minute,"velocity, phase velocity, group velocity",
+2,Space and Time,FS,foot per second,"velocity, phase velocity, group velocity",
+2,Space and Time,FTK,square foot,area,
+2,Space and Time,FTQ,cubic foot,volume,
+2,Space and Time,G21,cup [unit of volume],volume,
+2,Space and Time,G23,peck,volume,
+2,Space and Time,G24,tablespoon (US),volume,
+2,Space and Time,G25,teaspoon (US),volume,
+2,Space and Time,GLD,dry gallon (US),volume,
+2,Space and Time,GLI,gallon (UK),volume,
+2,Space and Time,GLL,gallon (US),volume,
+2,Space and Time,H27,degree per metre,solid angle,
+2,Space and Time,H57,inch per two pi radiant,solid angle,
+2,Space and Time,H66,millimetre per year,"velocity, phase velocity, group velocity",
+2,Space and Time,H67,millimetre per hour,"velocity, phase velocity, group velocity",
+2,Space and Time,H79,French gauge,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance","A unit of distance used for measuring the diameter of small tubes such as urological instruments and catheters. Synonym: French, Charri-re, Charri-re gauge"
+2,Space and Time,HM,mile per hour (statute mile),"velocity, phase velocity, group velocity",
+2,Space and Time,INH,inch,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2,Space and Time,INK,square inch,area,
+2,Space and Time,INQ,cubic inch,volume,Synonym: inch cubed
+2,Space and Time,IU,inch per second,"velocity, phase velocity, group velocity",
+2,Space and Time,IV,inch per second squared,"acceleration, acceleration of free fall, acceleration due to gravity",
+2,Space and Time,J57,barrel (UK petroleum),volume,
+2,Space and Time,J84,centimetre per second kelvin,"velocity, phase velocity, group velocity",
+2,Space and Time,J85,centimetre per second bar,"velocity, phase velocity, group velocity",
+2,Space and Time,K13,foot per degree Fahrenheit,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2,Space and Time,K14,foot per hour,"velocity, phase velocity, group velocity",
+2,Space and Time,K17,foot per psi,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2,Space and Time,K18,foot per second degree Fahrenheit,"velocity, phase velocity, group velocity",
+2,Space and Time,K19,foot per second psi,"velocity, phase velocity, group velocity",
+2,Space and Time,K21,cubic foot per degree Fahrenheit,volume,
+2,Space and Time,K23,cubic foot per psi,volume,
+2,Space and Time,K40,standard acceleration of free fall,"acceleration, acceleration of free fall, acceleration due to gravity",
+2,Space and Time,K45,inch per degree Fahrenheit,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2,Space and Time,K46,inch per psi,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2,Space and Time,K47,inch per second degree Fahrenheit,"velocity, phase velocity, group velocity",
+2,Space and Time,K48,inch per second psi,"velocity, phase velocity, group velocity",
+2,Space and Time,L12,metre per second kelvin,"velocity, phase velocity, group velocity",
+2,Space and Time,L13,metre per second bar,"velocity, phase velocity, group velocity",
+2,Space and Time,L43,peck (UK),volume,
+2,Space and Time,L84,ton (UK shipping),volume,
+2,Space and Time,L86,ton (US shipping),volume,
+2,Space and Time,L95,common year,time,
+2,Space and Time,L96,sidereal year,time,
+2,Space and Time,L98,yard per degree Fahrenheit,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2,Space and Time,L99,yard per psi,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2,Space and Time,M11,cubic yard per degree Fahrenheit,volume,
+2,Space and Time,M14,cubic yard per psi,volume,
+2,Space and Time,M22,millilitre per square centimetre minute,"velocity, phase velocity, group velocity",
+2,Space and Time,M40,yard per second squared,"acceleration, acceleration of free fall, acceleration due to gravity",Unit of the length according to the Anglo-American and Imperial system of units divided by the power of the SI base unit second by exponent 2.
+2,Space and Time,M42,mile (statute mile) per second squared,"acceleration, acceleration of free fall, acceleration due to gravity",Unit of the length according to the Imperial system of units divided by the power of the SI base unit second by exponent 2.
+2,Space and Time,M43,mil,angle (plane),"Unit to indicate an angle at military zone, equal to the 6400th part of the full circle of the 360- or 2-p-rad."
+2,Space and Time,M44,revolution,angle (plane),Unit to identify an angle of the full circle of 360- or 2-p-rad (Refer ISO/TC12 SI Guide).
+2,Space and Time,M46,revolution per minute ,angular velocity,Unit of the angular velocity.
+2,Space and Time,M47,circular mil ,area,"Unit of an area, of which the size is given by a diameter of length of 1 mm (0,001 in) based on the formula: area = p-(diameter/2)-."
+2,Space and Time,M48,square mile (based on U.S. survey foot) ,area,"Unit of the area, which is mainly common in the agriculture and forestry."
+2,Space and Time,M49,chain (based on U.S. survey foot),"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",Unit of the length according the Anglo-American system of units.
+2,Space and Time,M50,furlong,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",Unit commonly used in Great Britain at rural distances: 1 furlong = 40 rods = 10 chains (UK) = 1/8 mile = 1/10 furlong = 220 yards = 660 foot.
+2,Space and Time,M51,foot (U.S. survey) ,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance","Unit commonly used in the United States for ordnance survey."
+2,Space and Time,M52,mile (based on U.S. survey foot) ,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",Unit commonly used in the United States for ordnance survey.
+2,Space and Time,M56,shake,time,Unit for a very short period.
+2,Space and Time,M57,mile per minute ,"velocity, phase velocity, group velocity",Unit of velocity from the Imperial system of units.
+2,Space and Time,M58,mile per second ,"velocity, phase velocity, group velocity",Unit of the velocity from the Imperial system of units.
+2,Space and Time,M60,metre per hour,"velocity, phase velocity, group velocity",SI base unit metre divided by the unit hour.
+2,Space and Time,M61,inch per year,"velocity, phase velocity, group velocity",Unit of the length according to the Anglo-American and Imperial system of units divided by the unit common year with 365 days.
+2,Space and Time,M62,kilometre per second ,"velocity, phase velocity, group velocity",1000-fold of the SI base unit metre divided by the SI base unit second.
+2,Space and Time,M63,inch per minute,"velocity, phase velocity, group velocity",Unit inch according to the Anglo-American and Imperial system of units divided by the unit minute.
+2,Space and Time,M64,yard per second,"velocity, phase velocity, group velocity",Unit yard according to the Anglo-American and Imperial system of units divided by the SI base unit second.
+2,Space and Time,M65,yard per minute,"velocity, phase velocity, group velocity",Unit yard according to the Anglo-American and Imperial system of units divided by the unit minute.
+2,Space and Time,M66,yard per hour,"velocity, phase velocity, group velocity",Unit yard according to the Anglo-American and Imperial system of units divided by the unit hour.
+2,Space and Time,M67,acre-foot (based on U.S. survey foot),volume,"Unit of the volume, which is used in the United States to measure/gauge the capacity of reservoirs."
+2,Space and Time,M68,cord (128 ft3),volume,Traditional unit of the volume of stacked firewood which has been measured with a cord.
+2,Space and Time,M69,cubic mile (UK statute),volume,Unit of volume according to the Imperial system of units.
+2,Space and Time,M7,micro-inch,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2,Space and Time,M70,"ton, register ",volume,Traditional unit of the cargo capacity.
+2,Space and Time,MAM,megametre,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2,Space and Time,MIK,square mile (statute mile),area,
+2,Space and Time,MON,month,time,"Unit of time equal to 1/12 of a year of 365,25 days."
+2,Space and Time,NM3,Normalised cubic metre,volume,Normalised cubic metre (temperature 0-C and pressure 101325 millibars )
+2,Space and Time,OZA,fluid ounce (US),volume,
+2,Space and Time,OZI,fluid ounce (UK),volume,
+2,Space and Time,PTD,dry pint (US),volume,
+2,Space and Time,PTI,pint (UK),volume,
+2,Space and Time,PTL,liquid pint (US),volume,
+2,Space and Time,QTD,dry quart (US),volume,
+2,Space and Time,QTI,quart (UK),volume,
+2,Space and Time,QTL,liquid quart (US),volume,
+2,Space and Time,SM3,Standard cubic metre,volume,Standard cubic metre (temperature 15-C and pressure 101325 millibars )
+2,Space and Time,SMI,mile (statute mile),"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2,Space and Time,WEE,week,time,
+2,Space and Time,X1,Gunter's chain,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",A unit of distance used or formerly used by-British surveyors.
+2,Space and Time,YDK,square yard,area,
+2,Space and Time,YDQ,cubic yard,volume,
+2,Space and Time,YRD,yard,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+3,,H77,module width,,A unit of measure used to describe the breadth of electronic assemblies as an-installation standard-or mounting dimension.
+3,,H80,rack unit,,A unit of measure used to describe the height in rack units of equipment intended for mounting in a 19-inch rack or a 23-inch rack. One rack unit is 1.75 inches (44.45 mm) high.
+3,,M19,Beaufort,,"An empirical measure for describing wind speed based mainly on observed sea conditions. The Beaufort scale indicates the wind speed by numbers that typically range from 0 for calm, to 12 for hurricane."
+1M,Acoustics,P43,bel per metre,"sound pressure level, sound power level",Unit bel divided by the SI base unit metre.
+1M,Atomic and Nuclear Physics,GBQ,gigabecquerel,activity,
+1M,Atomic and Nuclear Physics,H08,microbecquerel,activity,
+1M,Electricity and Magnetism,AMH,ampere hour,"electric charge, quantity of electricity, electric flux (flux of displacement)",A unit of electric charge defining the amount of charge accumulated by a steady flow of one ampere for one hour.
+1M,Electricity and Magnetism,E09,milliampere hour,"electric charge, quantity of electricity, electric flux (flux of displacement)",A unit of power load delivered at the rate of one thousandth of an ampere over a period of one hour.
+1M,Electricity and Magnetism,F54,milliohm per metre,lineic resistance,
+1M,Electricity and Magnetism,F56,ohm per kilometre,lineic resistance,
+1M,Electricity and Magnetism,F59,milliampere per bar,"linear electric current density, lineic electric current, magnetic field strength",
+1M,Electricity and Magnetism,F76,milliampere per millimetre,"linear electric current density, lineic electric current, magnetic field strength",
+1M,Electricity and Magnetism,F87,volt per litre minute,electric field strength,
+1M,Electricity and Magnetism,G42,microsiemens per centimetre,"conductance (for direct current), admittance, (complex admittance), modulus of admittance,(admittance), conductance (for alternating current)",
+1M,Electricity and Magnetism,G43,microsiemens per metre,"conductance (for direct current), admittance, (complex admittance), modulus of admittance,(admittance), conductance (for alternating current)",
+1M,Electricity and Magnetism,G44,nanosiemens per centimetre,conductivity,
+1M,Electricity and Magnetism,G45,nanosiemens per metre,conductivity,
+1M,Electricity and Magnetism,G59,milliampere per litre minute,current density,
+1M,Electricity and Magnetism,G60,volt per bar,electric field strength,
+1M,Electricity and Magnetism,G98,microhenry per kiloohm,"self inductance, mutual inductance, permeance",
+1M,Electricity and Magnetism,G99,microhenry per ohm,"self inductance, mutual inductance, permeance",
+1M,Electricity and Magnetism,H03,henry per kiloohm,"self inductance, mutual inductance, permeance",
+1M,Electricity and Magnetism,H04,henry per ohm,"self inductance, mutual inductance, permeance",
+1M,Electricity and Magnetism,H05,millihenry per kiloohm,"self inductance, mutual inductance, permeance",
+1M,Electricity and Magnetism,H06,millihenry per ohm,"self inductance, mutual inductance, permeance",
+1M,Electricity and Magnetism,H26,ohm per metre,lineic resistance,
+1M,Electricity and Magnetism,H36,megaohm per kilometre,lineic resistance,
+1M,Electricity and Magnetism,H37,megaohm per metre,lineic resistance,
+1M,Electricity and Magnetism,H62,millivolt per minute,electric field strength,
+1M,Electricity and Magnetism,M24,ohm kilometre,resistivity,
+1M,Electricity and Magnetism,MAR,megavar,reactive power,A unit of electrical reactive power represented by a current of one thousand amperes flowing due a potential difference of one thousand volts where the sine of the phase angle between them is 1.
+1M,Electricity and Magnetism,N90,kilofarad,capacitance,1000-fold of the derived SI unit farad.
+1M,Electricity and Magnetism,N92,picosiemens,"conductance (for direct current), admittance, (complex admittance), modulus of admittance,(admittance), conductance (for alternating current)","0,000 000 000 001-fold of the derived SI unit siemens."
+1M,Electricity and Magnetism,N93,ampere per pascal,current density,SI base unit ampere divided by the derived SI unit pascal.
+1M,Electricity and Magnetism,N95,ampere minute,"electric charge, quantity of electricity, electric flux (flux of displacement)",A unit of electric charge defining the amount of charge accumulated by a steady flow of one ampere for one minute..
+1M,Electricity and Magnetism,N98,volt per pascal,electric field strength,Derived SI unit volt divided by the derived SI unit pascal.
+1M,Electricity and Magnetism,N99,picovolt,"electric potential, potential difference, tension, voltage, electromotive force","0,000 000 000 001-fold of the derived SI unit volt."
+1M,Electricity and Magnetism,P11,kiloweber,magnetic flux,1000 fold of the derived SI unit weber.
+1M,Electricity and Magnetism,P13,kilotesla,"magnetic flux density, magnetic induction, magnetic polarization",1000-fold of the derived SI unit tesla.
+1M,Electricity and Magnetism,P15,joule per minute,"power (for direct current), active power",Quotient from the derived SI unit joule divided by the unit minute.
+1M,Electricity and Magnetism,P16,joule per hour,"power (for direct current), active power",Quotient from the derived SI unit joule divided by the unit hour.
+1M,Electricity and Magnetism,P17,joule per day,"power (for direct current), active power",Quotient from the derived SI unit joule divided by the unit day.
+1M,Electricity and Magnetism,P18,kilojoule per second,"power (for direct current), active power",Quotient from the 1000-fold of the derived SI unit joule divided by the SI base unit second.
+1M,Electricity and Magnetism,P19,kilojoule per minute,"power (for direct current), active power",Quotient from the 1000-fold of the derived SI unit joule divided by the unit minute.
+1M,Electricity and Magnetism,P20,kilojoule per hour,"power (for direct current), active power",Quotient from the 1000-fold of the derived SI unit joule divided by the unit hour.
+1M,Electricity and Magnetism,P21,kilojoule per day,"power (for direct current), active power",Quotient from the 1000-fold of the derived SI unit joule divided by the unit day.
+1M,Electricity and Magnetism,P22,nanoohm,"resistance (to direct current), impedance, (complex impedances), modulus of impedance, resistance (to alternating current), reactance","0,000 000 001-fold of the derived SI unit ohm."
+1M,Electricity and Magnetism,P24,kilohenry,"self inductance, mutual inductance, permeance",1000-fold of the derived SI unit henry.
+1M,Electricity and Magnetism,TAH,kiloampere hour (thousand ampere hour),"electric charge, quantity of electricity, electric flux (flux of displacement)",
+1M,Heat,E97,millimetre per degree Celcius metre,thermal diffusivity,
+1M,Heat,E98,degree Celsius per kelvin,temperature,
+1M,Heat,F02,kelvin per kelvin,temperature,
+1M,Heat,F10,kelvin per hour,temperature,
+1M,Heat,F11,kelvin per minute,temperature,
+1M,Heat,F12,kelvin per second,temperature,
+1M,Heat,F53,millimetre per kelvin,thermal diffusivity,
+1M,Heat,F60,degree Celsius per bar,temperature,
+1M,Heat,F61,kelvin per bar,temperature,
+1M,Heat,F81,bar per kelvin,pressure coefficient,
+1M,Heat,H12,degree Celsius per hour,temperature,
+1M,Heat,H13,degree Celsius per minute,temperature,
+1M,Heat,H14,degree Celsius per second,temperature,
+1M,Heat,N78,kilowatt per square metre kelvin,surface coefficient of heat transfer,1000-fold of the derived SI unit watt divided by the product of the power of the SI base unit metre by exponent 2 and the SI base unit kelvin.
+1M,Heat,N80,watt per metre degree Celsius,thermal conductivity,Derived SI unit watt divided by the product of the SI base unit metre and the unit for temperature degree Celsius.
+1M,Heat,N81,kilowatt per metre kelvin,thermal conductivity,1000-fold of the derived SI unit watt divided by the product of the SI base unit metre and the SI base unit kelvin.
+1M,Heat,N82,kilowatt per metre degree Celsius,thermal conductivity,1000-fold of the derived SI unit watt divided by the product of the SI base unit metre and the unit for temperature degree Celsius.
+1M,Light and Related Electromagnetic Radiations,E43,joule per square centimetre,"radiant energy fluence, radiance exposure",A unit of energy defining the number of joules per square centimetre.
+1M,Light and Related Electromagnetic Radiations,H74,watt per metre,"radiant energy, fluence rate, radiant exitance, irradiance, first radiation constant",
+1M,Light and Related Electromagnetic Radiations,JM,megajoule per cubic metre,radiant energy density,
+1M,Light and Related Electromagnetic Radiations,KLX,kilolux,illuminance,A unit of illuminance equal to one thousand lux.
+1M,Light and Related Electromagnetic Radiations,P33,kilocandela,luminous intensity,1000-fold of the SI base unit candela.
+1M,Light and Related Electromagnetic Radiations,P34,millicandela,luminous intensity,"0,001-fold of the SI base unit candela."
+1M,Mechanics,22,decilitre per gram,"specific volume, massic volume",
+1M,Mechanics,25,gram per square centimetre,"surface density, areic mass",
+1M,Mechanics,40,millilitre per second,volume flow rate,
+1M,Mechanics,41,millilitre per minute,volume flow rate,
+1M,Mechanics,4M,milligram per hour,mass flow rate,
+1M,Mechanics,4X,kilolitre per hour,volume flow rate,
+1M,Mechanics,A93,gram per cubic metre,"density, mass density, volumic mass",
+1M,Mechanics,CGM,centigram,mass,
+1M,Mechanics,DG,decigram,mass,
+1M,Mechanics,DJ,decagram,mass,
+1M,Mechanics,E01,newton per square centimetre,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",A measure of pressure expressed in newtons per square centimetre.
+1M,Mechanics,E99,hectopascal per bar,pressure ratio,
+1M,Mechanics,F03,kilopascal per bar,pressure ratio,
+1M,Mechanics,F04,millibar per bar,pressure ratio,
+1M,Mechanics,F05,megapascal per bar,pressure ratio,
+1M,Mechanics,F07,pascal per bar,pressure ratio,
+1M,Mechanics,F14,gram per kelvin,"density, mass density, volumic mass",
+1M,Mechanics,F15,kilogram per kelvin,"density, mass density, volumic mass",
+1M,Mechanics,F16,milligram per kelvin,"density, mass density, volumic mass",
+1M,Mechanics,F18,kilogram square centimetre,"density, mass density, volumic mass",
+1M,Mechanics,F19,kilogram square millimetre,"density, mass density, volumic mass",
+1M,Mechanics,F23,gram per cubic decimetre,"density, mass density, volumic mass",
+1M,Mechanics,F24,kilogram per kilomol,"density, mass density, volumic mass",
+1M,Mechanics,F25,gram per hertz,mass flow rate,
+1M,Mechanics,F26,gram per day,mass flow rate,
+1M,Mechanics,F27,gram per hour,mass flow rate,
+1M,Mechanics,F28,gram per minute,mass flow rate,
+1M,Mechanics,F29,gram per second,mass flow rate,
+1M,Mechanics,F30,kilogram per day,mass flow rate,
+1M,Mechanics,F31,kilogram per minute,mass flow rate,
+1M,Mechanics,F32,milligram per day,mass flow rate,
+1M,Mechanics,F33,milligram per minute,mass flow rate,
+1M,Mechanics,F34,milligram per second,mass flow rate,
+1M,Mechanics,F35,gram per day kelvin,mass flow rate,
+1M,Mechanics,F36,gram per hour kelvin,mass flow rate,
+1M,Mechanics,F37,gram per minute kelvin,mass flow rate,
+1M,Mechanics,F38,gram per second kelvin,mass flow rate,
+1M,Mechanics,F39,kilogram per day kelvin,mass flow rate,
+1M,Mechanics,F40,kilogram per hour kelvin,mass flow rate,
+1M,Mechanics,F41,kilogram per minute kelvin,mass flow rate,
+1M,Mechanics,F42,kilogram per second kelvin,mass flow rate,
+1M,Mechanics,F43,milligram per day kelvin,mass flow rate,
+1M,Mechanics,F44,milligram per hour kelvin,mass flow rate,
+1M,Mechanics,F45,milligram per minute kelvin,mass flow rate,
+1M,Mechanics,F46,milligram per second kelvin,mass flow rate,
+1M,Mechanics,F47,newton per millimetre,"moment of force, moment of a couple, torque",
+1M,Mechanics,F58,reciprocal bar,"compressibility, bulk compressibility",
+1M,Mechanics,F62,gram per day bar,mass flow rate,
+1M,Mechanics,F63,gram per hour bar,mass flow rate,
+1M,Mechanics,F64,gram per minute bar,mass flow rate,
+1M,Mechanics,F65,gram per second bar,mass flow rate,
+1M,Mechanics,F66,kilogram per day bar,mass flow rate,
+1M,Mechanics,F67,kilogram per hour bar,mass flow rate,
+1M,Mechanics,F68,kilogram per minute bar,mass flow rate,
+1M,Mechanics,F69,kilogram per second bar,mass flow rate,
+1M,Mechanics,F70,milligram per day bar,mass flow rate,
+1M,Mechanics,F71,milligram per hour bar,mass flow rate,
+1M,Mechanics,F72,milligram per minute bar,mass flow rate,
+1M,Mechanics,F73,milligram per second bar,mass flow rate,
+1M,Mechanics,F74,gram per bar,"density, mass density, volumic mass",
+1M,Mechanics,F75,milligram per bar,"density, mass density, volumic mass",
+1M,Mechanics,F77,pascal second per kelvin,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,F82,hectopascal per kelvin,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,F83,kilopascal per kelvin,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,F84,millibar per kelvin,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,F85,megapascal per kelvin,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,F88,newton centimetre,"moment of force, moment of a couple, torque",
+1M,Mechanics,F89,newton metre per degree,"moment of force, moment of a couple, torque",
+1M,Mechanics,F90,newton metre per ampere,"moment of force, moment of a couple, torque",
+1M,Mechanics,F91,bar litre per second,leakage rate of gas,
+1M,Mechanics,F92,bar cubic metre per second,leakage rate of gas,
+1M,Mechanics,F93,hectopascal litre per second,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,F94,hectopascal cubic metre per second,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,F95,millibar litre per second,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,F96,millibar cubic metre per second,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,F97,megapascal litre per second,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,F98,megapascal cubic metre per second,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,F99,pascal litre per second,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,G01,pascal cubic metre per second,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,G09,square metre per second kelvin,kinematic viscosity,
+1M,Mechanics,G11,gram per cubic centimetre bar,"density, mass density, volumic mass",
+1M,Mechanics,G12,gram per cubic decimetre bar,"density, mass density, volumic mass",
+1M,Mechanics,G13,gram per litre bar,"density, mass density, volumic mass",
+1M,Mechanics,G14,gram per cubic metre bar,"density, mass density, volumic mass",
+1M,Mechanics,G15,gram per millilitre bar,"density, mass density, volumic mass",
+1M,Mechanics,G16,kilogram per cubic centimetre bar,"density, mass density, volumic mass",
+1M,Mechanics,G17,kilogram per litre bar,"density, mass density, volumic mass",
+1M,Mechanics,G18,kilogram per cubic metre bar,"density, mass density, volumic mass",
+1M,Mechanics,G19,newton metre per kilogram,"moment of force, moment of a couple, torque",
+1M,Mechanics,G31,kilogram per cubic centimetre,"density, mass density, volumic mass",
+1M,Mechanics,G33,gram per cubic centimetre kelvin,"density, mass density, volumic mass",
+1M,Mechanics,G34,gram per cubic decimetre kelvin,"density, mass density, volumic mass",
+1M,Mechanics,G35,gram per litre kelvin,"density, mass density, volumic mass",
+1M,Mechanics,G36,gram per cubic metre kelvin,"density, mass density, volumic mass",
+1M,Mechanics,G37,gram per millilitre kelvin,"density, mass density, volumic mass",
+1M,Mechanics,G38,kilogram per cubic centimetre kelvin,"density, mass density, volumic mass",
+1M,Mechanics,G39,kilogram per litre kelvin,"density, mass density, volumic mass",
+1M,Mechanics,G40,kilogram per cubic metre kelvin,"density, mass density, volumic mass",
+1M,Mechanics,G41,square metre per second bar,kinematic viscosity,
+1M,Mechanics,G47,cubic centimetre per day,volume flow rate,
+1M,Mechanics,G48,cubic centimetre per hour,volume flow rate,
+1M,Mechanics,G49,cubic centimetre per minute,volume flow rate,
+1M,Mechanics,G51,litre per second,volume flow rate,
+1M,Mechanics,G52,cubic metre per day,volume flow rate,
+1M,Mechanics,G53,cubic metre per minute,volume flow rate,
+1M,Mechanics,G54,millilitre per day,volume flow rate,
+1M,Mechanics,G55,millilitre per hour,volume flow rate,
+1M,Mechanics,G61,cubic centimetre per day kelvin,volume flow rate,
+1M,Mechanics,G62,cubic centimetre per hour kelvin,volume flow rate,
+1M,Mechanics,G63,cubic centimetre per minute kelvin,volume flow rate,
+1M,Mechanics,G64,cubic centimetre per second kelvin,volume flow rate,
+1M,Mechanics,G65,litre per day kelvin,volume flow rate,
+1M,Mechanics,G66,litre per hour kelvin,volume flow rate,
+1M,Mechanics,G67,litre per minute kelvin,volume flow rate,
+1M,Mechanics,G68,litre per second kelvin,volume flow rate,
+1M,Mechanics,G69,cubic metre per day kelvin,volume flow rate,
+1M,Mechanics,G70,cubic metre per hour kelvin,volume flow rate,
+1M,Mechanics,G71,cubic metre per minute kelvin,volume flow rate,
+1M,Mechanics,G72,cubic metre per second kelvin,volume flow rate,
+1M,Mechanics,G73,millilitre per day kelvin,volume flow rate,
+1M,Mechanics,G74,millilitre per hour kelvin,volume flow rate,
+1M,Mechanics,G75,millilitre per minute kelvin,volume flow rate,
+1M,Mechanics,G76,millilitre per second kelvin,volume flow rate,
+1M,Mechanics,G77,millimetre to the fourth power,"second moment of area, second axial moment of area",
+1M,Mechanics,G78,cubic centimetre per day bar,volume flow rate,
+1M,Mechanics,G79,cubic centimetre per hour bar,volume flow rate,
+1M,Mechanics,G80,cubic centimetre per minute bar,volume flow rate,
+1M,Mechanics,G81,cubic centimetre per second bar,volume flow rate,
+1M,Mechanics,G82,litre per day bar,volume flow rate,
+1M,Mechanics,G83,litre per hour bar,volume flow rate,
+1M,Mechanics,G84,litre per minute bar,volume flow rate,
+1M,Mechanics,G85,litre per second bar,volume flow rate,
+1M,Mechanics,G86,cubic metre per day bar,volume flow rate,
+1M,Mechanics,G87,cubic metre per hour bar,volume flow rate,
+1M,Mechanics,G88,cubic metre per minute bar,volume flow rate,
+1M,Mechanics,G89,cubic metre per second bar,volume flow rate,
+1M,Mechanics,G90,millilitre per day bar,volume flow rate,
+1M,Mechanics,G91,millilitre per hour bar,volume flow rate,
+1M,Mechanics,G92,millilitre per minute bar,volume flow rate,
+1M,Mechanics,G93,millilitre per second bar,volume flow rate,
+1M,Mechanics,GF,gram per metre (gram per 100 centimetres),"linear density, linear mass",
+1M,Mechanics,GM,gram per square metre,"surface density, areic mass",
+1M,Mechanics,GP,milligram per cubic metre,"density, mass density, volumic mass",
+1M,Mechanics,GQ,microgram per cubic metre,"density, mass density, volumic mass",
+1M,Mechanics,H07,pascal second per bar,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,H15,square centimetre per gram,"specific volume, massic volume",
+1M,Mechanics,H29,microgram per litre,"density, mass density, volumic mass",
+1M,Mechanics,H53,kilogram per bar,"density, mass density, volumic mass",
+1M,Mechanics,H54,kilogram per cubic decimetre kelvin,"density, mass density, volumic mass",
+1M,Mechanics,H55,kilogram per cubic decimetre bar,"density, mass density, volumic mass",
+1M,Mechanics,H60,cubic metre per cubic metre,volume ratio,
+1M,Mechanics,H65,millilitre per cubic metre,"specific volume, massic volume",
+1M,Mechanics,H75,decapascal,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,H76,gram per millimetre,"linear density, linear mass",
+1M,Mechanics,H83,litre per kilogram,"specific volume, massic volume",
+1M,Mechanics,HBA,hectobar,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,HGM,hectogram,mass,
+1M,Mechanics,KBA,kilobar,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1M,Mechanics,KTN,kilotonne,mass,
+1M,Mechanics,KW,kilogram per millimetre,"linear density, linear mass",
+1M,Mechanics,KX,millilitre per kilogram,"specific volume, massic volume",
+1M,Mechanics,L2,litre per minute,volume flow rate,
+1M,Mechanics,LD,litre per day,volume flow rate,
+1M,Mechanics,M1,milligram per litre,"density, mass density, volumic mass",
+1M,Mechanics,M23,newton per centimetre,surface tension,
+1M,Mechanics,M73,kilogram per cubic metre pascal,"density, mass density, volumic mass",SI base unit kilogram divided by the product of the power of the SI base unit metre with exponent 3 and the derived SI unit pascal.
+1M,Mechanics,M93,newton metre per radian,"moment of force, moment of a couple, torque",Product of the derived SI unit newton and the SI base unit metre divided by the unit radian.
+1M,Mechanics,M98,kilogram centimetre per second,momentum,"Product of the SI base unit kilogram and the 0,01-fold of the SI base unit metre divided by the SI base unit second."
+1M,Mechanics,M99,gram centimetre per second,momentum,"Product of the 0,001-fold of the SI base unit kilogram and the 0,01-fold of the SI base unit metre divided by the SI base unit second."
+1M,Mechanics,MQH,cubic metre per hour,volume flow rate,
+1M,Mechanics,N28,cubic decimetre per kilogram,"specific volume, massic volume","0,001 fold of the power of the SI base unit meter by exponent 3 divided by the SI based unit kilogram."
+1M,Mechanics,N31,kilonewton per metre,surface tension,1000-fold of the derived SI unit newton divided by the SI base unit metre.
+1M,Mechanics,N39,kilogram per metre day,viscosity (dynamic viscosity),Unit of the dynamic viscosity as a quotient SI base unit kilogram divided by the SI base unit metre and by the unit day.
+1M,Mechanics,N40,kilogram per metre hour,viscosity (dynamic viscosity),Unit of the dynamic viscosity as a quotient SI base unit kilogram divided by the SI base unit metre and by the unit hour.
+1M,Mechanics,N41,gram per centimetre second,viscosity (dynamic viscosity),"Unit of the dynamic viscosity as a quotient of the 0,001-fold of the SI base unit kilogram divided by the 0,01-fold of the SI base unit metre and SI base unit second."
+1M,Mechanics,Q35,megawatts per minute,Power flow rate,A unit of power defining the total amount of bulk energy transferred or consumer per minute.
+1M,Miscellaneous,33,kilopascal square metre per gram,burst index,
+1M,Miscellaneous,34,kilopascal per millimetre,hardness index,
+1M,Miscellaneous,35,millilitre per square centimetre second,porosity,
+1M,Miscellaneous,H42,pascal per metre,hardness index,
+1M,Miscellaneous,H69,picopascal per kilometre,hardness index,
+1M,Miscellaneous,P80,millipascal per metre,hardness index,"0,001-fold of the derived SI unit pascal divided by the SI base unit metre."
+1M,Miscellaneous,P81,kilopascal per metre,hardness index,1000-fold of the derived SI unit pascal divided by the SI base unit metre.
+1M,Miscellaneous,P82,hectopascal per metre,hardness index,100-fold of the derived SI unit pascal divided by the SI base unit metre.
+1M,Miscellaneous,P87,cubic metre per second square metre,porosity,Unit of volume flow cubic meters by second related to the transmission surface in square metres.
+1M,Nuclear Reactions and Ionizing Radiations,P54,milligray per second,absorbed dose rate,"0,001-fold of the derived SI unit gray divided by the SI base unit second."
+1M,Nuclear Reactions and Ionizing Radiations,P55,microgray per second,absorbed dose rate,"0,000 001-fold of the derived SI unit gray divided by the SI base unit second."
+1M,Nuclear Reactions and Ionizing Radiations,P56,nanogray per second,absorbed dose rate,"0,000 000 001-fold of the derived SI unit gray divided by the SI base unit second."
+1M,Nuclear Reactions and Ionizing Radiations,P57,gray per minute,absorbed dose rate,SI derived unit gray divided by the unit minute.
+1M,Nuclear Reactions and Ionizing Radiations,P58,milligray per minute,absorbed dose rate,"0,001-fold of the derived SI unit gray divided by the unit minute."
+1M,Nuclear Reactions and Ionizing Radiations,P59,microgray per minute,absorbed dose rate,"0,000 001-fold of the derived SI unit gray divided by the unit minute."
+1M,Nuclear Reactions and Ionizing Radiations,P60,nanogray per minute,absorbed dose rate,"0,000 000 001-fold of the derived SI unit gray divided by the unit minute."
+1M,Nuclear Reactions and Ionizing Radiations,P61,gray per hour,absorbed dose rate,SI derived unit gray divided by the unit hour.
+1M,Nuclear Reactions and Ionizing Radiations,P62,milligray per hour,absorbed dose rate,"0,001-fold of the derived SI unit gray divided by the unit hour."
+1M,Nuclear Reactions and Ionizing Radiations,P63,microgray per hour,absorbed dose rate,"0,000 001-fold of the derived SI unit gray divided by the unit hour."
+1M,Nuclear Reactions and Ionizing Radiations,P64,nanogray per hour,absorbed dose rate,"0,000 000 001-fold of the derived SI unit gray divided by the unit hour."
+1M,Periodic and related phenomena,H09,reciprocal year,frequency,
+1M,Periodic and related phenomena,H10,reciprocal hour,frequency,
+1M,Periodic and related phenomena,H11,reciprocal month,frequency,
+1M,Periodic and related phenomena,H85,reciprocal week,frequency,
+1M,Periodic and related phenomena,M72,bel,"level of a field quantity, level of a power quantity",Logarithmic relationship to base 10.
+1M,Physical Chemistry and Molecular Physics,B58,litre per mole,molar volume,
+1M,Physical Chemistry and Molecular Physics,H50,reciprocal cubic centimetre,"volumic number of molecules (or particles), number density of molecules (or particles), molecular concentration of B",
+1M,Physical Chemistry and Molecular Physics,H68,millimole per gram,ionic strength,
+1M,Physical Chemistry and Molecular Physics,KAT,katal,catalytic activity,A unit of catalytic activity defining the catalytic activity of enzymes and other catalysts.
+1M,Physical Chemistry and Molecular Physics,P47,kilomole per kilogram,ionic strength,1000-fold of the SI base unit mol divided by the SI base unit kilogram.
+1M,Space and Time,2X,metre per minute,"velocity, phase velocity, group velocity",
+1M,Space and Time,4G,microlitre,volume,
+1M,Space and Time,A44,decalitre,volume,
+1M,Space and Time,A45,decametre,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1M,Space and Time,C11,milligal,"acceleration, acceleration of free fall, acceleration due to gravity",
+1M,Space and Time,DAA,decare,area,
+1M,Space and Time,DLT,decilitre,volume,
+1M,Space and Time,DMT,decimetre,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1M,Space and Time,E96,degree per second,solid angle,
+1M,Space and Time,F50,micrometre per kelvin,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1M,Space and Time,F51,centimetre per kelvin,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1M,Space and Time,F52,metre per kelvin,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1M,Space and Time,G04,centimetre per bar,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1M,Space and Time,G05,metre per bar,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1M,Space and Time,G06,millimetre per bar,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1M,Space and Time,G26,stere,volume,
+1M,Space and Time,G27,cubic centimetre per kelvin,volume per temperature,
+1M,Space and Time,G28,litre per kelvin,volume per temperature,
+1M,Space and Time,G29,cubic metre per kelvin,volume per temperature,
+1M,Space and Time,G30,millilitre per kelvin,volume per temperature,
+1M,Space and Time,G94,cubic centimetre per bar,volume,
+1M,Space and Time,G95,litre per bar,volume,
+1M,Space and Time,G96,cubic metre per bar,volume,
+1M,Space and Time,G97,millilitre per bar,volume,
+1M,Space and Time,H49,centimetre per hour,"velocity, phase velocity, group velocity",
+1M,Space and Time,H81,millimetre per minute,"velocity, phase velocity, group velocity",
+1M,Space and Time,H84,gram millimetre,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1M,Space and Time,HMT,hectometre,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1M,Space and Time,K6,kilolitre,volume,
+1M,Space and Time,M38,kilometre per second squared,"acceleration, acceleration of free fall, acceleration due to gravity",1000-fold of the SI base unit metre divided by the power of the SI base unit second by exponent 2.
+1M,Space and Time,M39,centimetre per second squared,"acceleration, acceleration of free fall, acceleration due to gravity","0,01-fold of the SI base unit metre divided by the power of the SI base unit second by exponent 2."
+1M,Space and Time,M41,millimetre per second squared,"acceleration, acceleration of free fall, acceleration due to gravity","0,001-fold of the SI base unit metre divided by the power of the SI base unit second by exponent 2."
+1M,Space and Time,M45,degree [unit of angle] per second squared,angular acceleration,360 part of a full circle divided by the power of the SI base unit second and the exponent 2.
+1M,Space and Time,M53,metre per pascal,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",SI base unit metre divided by the derived SI unit pascal.
+1M,Space and Time,MAL,megalitre,volume,
+"1M,3.5",Mechanics,DTN,decitonne,mass,"Synonym: centner, metric-100 kg; quintal, metric-100 kg"
+1S,Acoustics,C32,milliwatt per square metre,sound intensity,
+1S,Acoustics,C76,picowatt per square metre,sound intensity,
+1S,Acoustics,D85,microwatt per square metre,sound intensity,
+1S,Atomic and Nuclear Physics,2Q,kilobecquerel,activity,
+1S,Atomic and Nuclear Physics,4N,megabecquerel,activity,
+1S,Atomic and Nuclear Physics,B25,kilobecquerel per kilogram,specific activity in a sample,
+1S,Atomic and Nuclear Physics,B67,megabecquerel per kilogram,specific activity in a sample,
+1S,Electricity and Magnetism,2Z,millivolt,"electric potential, potential difference, tension, voltage, electromotive force",
+1S,Electricity and Magnetism,4K,milliampere,"electric current, magnetic potential difference, magnetomotive force,current linkage",
+1S,Electricity and Magnetism,4O,microfarad,capacitance,
+1S,Electricity and Magnetism,4T,picofarad,capacitance,
+1S,Electricity and Magnetism,A2,ampere per centimetre,"linear electric current density, lineic electric current, magnetic field strength",
+1S,Electricity and Magnetism,A28,coulomb per cubic centimetre,"volume density of charge, charge density, volumic charge",
+1S,Electricity and Magnetism,A3,ampere per millimetre,"linear electric current density, lineic electric current, magnetic field strength",
+1S,Electricity and Magnetism,A30,coulomb per cubic millimetre,"volume density of charge, charge density, volumic charge",
+1S,Electricity and Magnetism,A33,coulomb per square centimetre,"surface density of charge, electric flux density, displacement electric polarization",
+1S,Electricity and Magnetism,A35,coulomb per square millimetre,"surface density of charge, electric flux density, displacement electric polarization",
+1S,Electricity and Magnetism,A4,ampere per square centimetre,current density,
+1S,Electricity and Magnetism,A7,ampere per square millimetre,current density,
+1S,Electricity and Magnetism,A84,gigacoulomb per cubic metre,"volume density of charge, charge density, volumic charge",
+1S,Electricity and Magnetism,A87,gigaohm,"resistance (to direct current), impedance, (complex impedances), modulus of impedance, resistance (to alternating current), reactance",
+1S,Electricity and Magnetism,A88,gigaohm metre,resistivity,
+1S,Electricity and Magnetism,B22,kiloampere,"electric current, magnetic potential difference, magnetomotive force,current linkage",
+1S,Electricity and Magnetism,B23,kiloampere per square metre,current density,
+1S,Electricity and Magnetism,B24,kiloampere per metre,"linear electric current density, lineic electric current, magnetic field strength",
+1S,Electricity and Magnetism,B26,kilocoulomb,"electric charge, quantity of electricity, electric flux (flux of displacement)",
+1S,Electricity and Magnetism,B27,kilocoulomb per cubic metre,"volume density of charge, charge density, volumic charge",
+1S,Electricity and Magnetism,B28,kilocoulomb per square metre,"surface density of charge, electric flux density, displacement electric polarization",
+1S,Electricity and Magnetism,B49,kiloohm,"resistance (to direct current), impedance, (complex impedances), modulus of impedance, resistance (to alternating current), reactance",
+1S,Electricity and Magnetism,B50,kiloohm metre,resistivity,
+1S,Electricity and Magnetism,B53,kilosiemens,"conductance (for direct current), admittance, (complex admittance), modulus of admittance,(admittance), conductance (for alternating current)",
+1S,Electricity and Magnetism,B54,kilosiemens per metre,conductivity,
+1S,Electricity and Magnetism,B55,kilovolt per metre,electric field strength,
+1S,Electricity and Magnetism,B56,kiloweber per metre,magnetic vector potential,
+1S,Electricity and Magnetism,B66,megaampere per square metre,current density,
+1S,Electricity and Magnetism,B69,megacoulomb per cubic metre,"volume density of charge, charge density, volumic charge",
+1S,Electricity and Magnetism,B70,megacoulomb per square metre,"surface density of charge, electric flux density, displacement electric polarization",
+1S,Electricity and Magnetism,B75,megaohm,"resistance (to direct current), impedance, (complex impedances), modulus of impedance, resistance (to alternating current), reactance",
+1S,Electricity and Magnetism,B76,megaohm metre,resistivity,
+1S,Electricity and Magnetism,B77,megasiemens per metre,conductivity,
+1S,Electricity and Magnetism,B78,megavolt,"electric potential, potential difference, tension, voltage, electromotive force",
+1S,Electricity and Magnetism,B79,megavolt per metre,electric field strength,
+1S,Electricity and Magnetism,B84,microampere,"electric current, magnetic potential difference, magnetomotive force,current linkage",
+1S,Electricity and Magnetism,B86,microcoulomb,"electric charge, quantity of electricity, electric flux (flux of displacement)",
+1S,Electricity and Magnetism,B87,microcoulomb per cubic metre,"volume density of charge, charge density, volumic charge",
+1S,Electricity and Magnetism,B88,microcoulomb per square metre,"surface density of charge, electric flux density, displacement electric polarization",
+1S,Electricity and Magnetism,B89,microfarad per metre,"permittivity, permittivity of vacuum, (electric constant)",
+1S,Electricity and Magnetism,B90,microhenry,"self inductance, mutual inductance, permeance",
+1S,Electricity and Magnetism,B91,microhenry per metre,"permeability, permeability of vacuum, magnetic constant",
+1S,Electricity and Magnetism,B94,microohm,"resistance (to direct current), impedance, (complex impedances), modulus of impedance, resistance (to alternating current), reactance",
+1S,Electricity and Magnetism,B95,microohm metre,resistivity,
+1S,Electricity and Magnetism,B99,microsiemens,"conductance (for direct current), admittance, (complex admittance), modulus of admittance,(admittance), conductance (for alternating current)",
+1S,Electricity and Magnetism,C10,millifarad,capacitance,
+1S,Electricity and Magnetism,C14,millihenry,"self inductance, mutual inductance, permeance",
+1S,Electricity and Magnetism,C23,milliohm metre,resistivity,
+1S,Electricity and Magnetism,C27,millisiemens,"conductance (for direct current), admittance, (complex admittance), modulus of admittance,(admittance), conductance (for alternating current)",
+1S,Electricity and Magnetism,C29,millitesla,"magnetic flux density, magnetic induction, magnetic polarization",
+1S,Electricity and Magnetism,C3,microvolt per metre,electric field strength,
+1S,Electricity and Magnetism,C30,millivolt per metre,electric field strength,
+1S,Electricity and Magnetism,C33,milliweber,magnetic flux,
+1S,Electricity and Magnetism,C39,nanoampere,"electric current, magnetic potential difference, magnetomotive force,current linkage",
+1S,Electricity and Magnetism,C40,nanocoulomb,"electric charge, quantity of electricity, electric flux (flux of displacement)",
+1S,Electricity and Magnetism,C41,nanofarad,capacitance,
+1S,Electricity and Magnetism,C42,nanofarad per metre,"permittivity, permittivity of vacuum, (electric constant)",
+1S,Electricity and Magnetism,C43,nanohenry,"self inductance, mutual inductance, permeance",
+1S,Electricity and Magnetism,C44,nanohenry per metre,"permeability, permeability of vacuum, magnetic constant",
+1S,Electricity and Magnetism,C46,nanoohm metre,resistivity,
+1S,Electricity and Magnetism,C48,nanotesla,"magnetic flux density, magnetic induction, magnetic polarization",
+1S,Electricity and Magnetism,C49,nanowatt,"power (for direct current), active power",
+1S,Electricity and Magnetism,C60,ohm centimetre,resistivity,
+1S,Electricity and Magnetism,C70,picoampere,"electric current, magnetic potential difference, magnetomotive force,current linkage",
+1S,Electricity and Magnetism,C71,picocoulomb,"electric charge, quantity of electricity, electric flux (flux of displacement)",
+1S,Electricity and Magnetism,C72,picofarad per metre,"permittivity, permittivity of vacuum, (electric constant)",
+1S,Electricity and Magnetism,C73,picohenry,"self inductance, mutual inductance, permeance",
+1S,Electricity and Magnetism,C75,picowatt,"power (for direct current), active power",
+1S,Electricity and Magnetism,D31,terawatt,"power (for direct current), active power",
+1S,Electricity and Magnetism,D47,volt per centimetre,electric field strength,
+1S,Electricity and Magnetism,D51,volt per millimetre,electric field strength,
+1S,Electricity and Magnetism,D60,weber per millimetre,magnetic vector potential,
+1S,Electricity and Magnetism,D77,megacoulomb,"electric charge, quantity of electricity, electric flux (flux of displacement)",
+1S,Electricity and Magnetism,D81,microtesla,"magnetic flux density, magnetic induction, magnetic polarization",
+1S,Electricity and Magnetism,D82,microvolt,"electric potential, potential difference, tension, voltage, electromotive force",
+1S,Electricity and Magnetism,D86,millicoulomb,"electric charge, quantity of electricity, electric flux (flux of displacement)",
+1S,Electricity and Magnetism,D88,millicoulomb per cubic metre,"volume density of charge, charge density, volumic charge",
+1S,Electricity and Magnetism,D89,millicoulomb per square metre,"surface density of charge, electric flux density, displacement electric polarization",
+1S,Electricity and Magnetism,E45,milliohm,"resistance (to direct current), impedance, (complex impedances), modulus of impedance, resistance (to alternating current), reactance",
+1S,Electricity and Magnetism,H24,volt per microsecond,electric field strength,
+1S,Electricity and Magnetism,H28,microfarad per kilometre,"permittivity, permittivity of vacuum, (electric constant)",
+1S,Electricity and Magnetism,H33,farad per kilometre,"permittivity, permittivity of vacuum, (electric constant)",
+1S,Electricity and Magnetism,H38,megaampere,"electric current, magnetic potential difference, magnetomotive force,current linkage",
+1S,Electricity and Magnetism,H43,siemens per centimetre,conductivity,
+1S,Electricity and Magnetism,H44,teraohm,"resistance (to direct current), impedance, (complex impedances), modulus of impedance, resistance (to alternating current), reactance",
+1S,Electricity and Magnetism,H46,volt per second,electric field strength,
+1S,Electricity and Magnetism,H48,attofarad,capacitance,
+1S,Electricity and Magnetism,H61,millisiemens per centimetre,conductivity,
+1S,Electricity and Magnetism,H88,megaohm kilometre,resistivity,
+1S,Electricity and Magnetism,KVA,kilovolt - ampere,apparent power,
+1S,Electricity and Magnetism,KVR,kilovar,reactive power,
+1S,Electricity and Magnetism,KVT,kilovolt,"electric potential, potential difference, tension, voltage, electromotive force",
+1S,Electricity and Magnetism,M30,reciprocal volt - ampere reciprocal second,"coefficient, performance characteristic",
+1S,Electricity and Magnetism,M35,millivolt - ampere,apparent power,
+1S,Electricity and Magnetism,MVA,megavolt - ampere,apparent power,
+1S,Heat,B41,kilojoule per kelvin,"heat capacity, entropy",
+1S,Heat,B42,kilojoule per kilogram,"massic enthalpy, specific enthalpy",
+1S,Heat,B43,kilojoule per kilogram kelvin,"specific heat capacity at: - constant pressure, -constant volume,- saturation",
+1S,Heat,D95,joule per gram,massic thermodynamic energy,
+1S,Heat,J55,watt second,"heat, quantity of heat, energy, thermodynamic energy, enthalpy, Helmholtz function, Helmholtz free energy",
+1S,Heat,JK,megajoule per kilogram,specific thermodynamic energy,
+1S,Heat,N79,kelvin per pascal,temperature,SI base unit kelvin divided by the derived SI unit pascal.
+1S,Heat,Q31,kilojoule per gram,massic thermodynamic energy,
+1S,Light and Related Electromagnetic Radiations,B59,lumen hour,quantity of light,
+1S,Light and Related Electromagnetic Radiations,B63,lux hour,light exposure,
+1S,Mechanics,23,gram per cubic centimetre,"density, mass density, volumic mass",
+1S,Mechanics,74,millipascal,"pressure, normal stress, shear stress, modulus of elasticity, shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1S,Mechanics,2J,cubic centimetre per second,volume flow rate,
+1S,Mechanics,2U,megagram,mass,
+1S,Mechanics,3B,megajoule,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,A13,attojoule,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,A68,exajoule,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,A70,femtojoule,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,A85,gigaelectronvolt,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,A89,gigapascal,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1S,Mechanics,A90,gigawatt,power,
+1S,Mechanics,A97,hectopascal,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1S,Mechanics,B29,kiloelectronvolt,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,B34,kilogram per cubic decimetre,"density, mass density, volumic mass",
+1S,Mechanics,B35,kilogram per litre,"density, mass density, volumic mass",
+1S,Mechanics,B47,kilonewton,"force, weight",
+1S,Mechanics,B48,kilonewton metre,"moment of force, moment of a couple, torque",
+1S,Mechanics,B71,megaelectronvolt,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,B72,megagram per cubic metre,"density, mass density, volumic mass",
+1S,Mechanics,B73,meganewton,"force, weight",
+1S,Mechanics,B74,meganewton metre,"moment of force, moment of a couple, torque",
+1S,Mechanics,B85,microbar,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1S,Mechanics,B92,micronewton,"force, weight",
+1S,Mechanics,B93,micronewton metre,"moment of force, moment of a couple, torque",
+1S,Mechanics,B96,micropascal,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1S,Mechanics,C12,milligram per metre,"linear density, linear mass",
+1S,Mechanics,C15,millijoule,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,C17,millimetre squared per second,kinematic viscosity,
+1S,Mechanics,C20,millinewton,"force, weight",
+1S,Mechanics,C22,millinewton per metre,surface tension,
+1S,Mechanics,C24,millipascal second,viscosity (dynamic viscosity),
+1S,Mechanics,C31,milliwatt,power,
+1S,Mechanics,C55,newton per square metre,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1S,Mechanics,C56,newton per square millimetre,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1S,Mechanics,C68,petajoule,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,D30,terajoule,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,D32,terawatt hour,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,D41,tonne per cubic metre,"density, mass density, volumic mass",
+1S,Mechanics,D80,microwatt,power,
+1S,Mechanics,D83,millinewton metre,"moment of force, moment of a couple, torque",
+1S,Mechanics,DN,decinewton metre,"moment of force, moment of a couple, torque",
+1S,Mechanics,E92,cubic decimetre per hour,volume flow rate,
+1S,Mechanics,E93,kilogram per hour,mass flow rate,
+1S,Mechanics,GJ,gram per millilitre,"density, mass density, volumic mass",
+1S,Mechanics,GL,gram per litre,"density, mass density, volumic mass",
+1S,Mechanics,GRM,gram,mass,
+1S,Mechanics,GV,gigajoule,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,GWH,gigawatt hour,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,H63,milligram per square centimetre,"surface density, areic mass",
+1S,Mechanics,H64,milligram per gram,"density, mass density, volumic mass",
+1S,Mechanics,J33,microgram per kilogram,mass ratio,
+1S,Mechanics,J72,centinewton metre,"moment of force, moment of a couple, torque",
+1S,Mechanics,J90,cubic decimetre per day,volume flow rate,
+1S,Mechanics,J92,cubic decimetre per minute,volume flow rate,
+1S,Mechanics,J93,cubic decimetre per second,volume flow rate,
+1S,Mechanics,KJO,kilojoule,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,KNM,kilonewton per square metre,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",Pressure expressed in kN/m2.
+1S,Mechanics,KPA,kilopascal,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1S,Mechanics,KWH,kilowatt hour,"work, energy, potential energy, kinetic energy",
+1S,Mechanics,KWT,kilowatt,power,
+1S,Mechanics,L32,nanogram per kilogram,mass ratio,
+1S,Mechanics,M29,kilogram per kilogram,mass ratio,
+1S,Mechanics,M31,kilogram per kilometre,"linear density, linear mass",
+1S,Mechanics,M34,newton metre per square metre,"torsional stiffness, area-related torsional moment ",
+1S,Mechanics,M87,kilogram per second pascal,mass flow rate,SI base unit kilogram divided by the product of the SI base unit second and the derived SI unit pascal.
+1S,Mechanics,M94,kilogram metre,"moment of force, moment of a couple, torque",Unit of imbalance as a product of the SI base unit kilogram and the SI base unit metre.
+1S,Mechanics,MAW,megawatt,power,A unit of power defining the rate of energy transferred or consumed when a current of 1000 amperes flows due to a potential of 1000 volts at unity power factor.
+1S,Mechanics,MBR,millibar,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1S,Mechanics,MC,microgram,mass,
+1S,Mechanics,MGM,milligram,mass,
+1S,Mechanics,MPA,megapascal,"pressure, normal stress, shear stress, modulus of elasticity,shear modulus, modulus of rigidity, bulk modulus, modulus of compression",
+1S,Mechanics,MWH,megawatt hour (1000-kW.h),"work, energy, potential energy, kinetic energy",A unit of power defining the total amount of bulk energy transferred or consumed.
+1S,Mechanics,N36,newton second per square metre,viscosity (dynamic viscosity),Unit of the dynamic viscosity as a product of unit of the pressure (newton by square metre) multiplied with the SI base unit second.
+1S,Mechanics,N45,cubic metre per second pascal,volume flow rate,Power of the SI base unit meter by exponent 3 divided by the product of the SI base unit second and the derived SI base unit pascal.
+1S,Mechanics,NA,milligram per kilogram,mass ratio,
+1S,Mechanics,Q29,microgram per hectogram,mass ratio,Microgram per hectogram.
+1S,Mechanics,TNE,tonne (metric ton),mass,Synonym: metric ton
+1S,Nuclear Reactions and Ionizing Radiations,C13,milligray,"specific energy imparted, massic energy imparted",
+1S,Nuclear Reactions and Ionizing Radiations,C28,millisievert,dose equivalent,
+1S,Nuclear Reactions and Ionizing Radiations,C8,millicoulomb per kilogram,exposure,
+1S,Periodic and related phenomena,A86,gigahertz,frequency,
+1S,Periodic and related phenomena,C94,reciprocal minute,rotational frequency,
+1S,Periodic and related phenomena,D29,terahertz,frequency,
+1S,Periodic and related phenomena,KHZ,kilohertz,frequency,
+1S,Periodic and related phenomena,MHZ,megahertz,frequency,
+1S,Physical Chemistry and Molecular Physics,A36,cubic centimetre per mole,molar volume,
+1S,Physical Chemistry and Molecular Physics,A37,cubic decimetre per mole,molar volume,
+1S,Physical Chemistry and Molecular Physics,A94,gram per mole,molar mass,
+1S,Physical Chemistry and Molecular Physics,B44,kilojoule per mole,molar thermodynamic energy,
+1S,Physical Chemistry and Molecular Physics,B45,kilomole,amount of substance,
+1S,Physical Chemistry and Molecular Physics,B46,kilomole per cubic metre,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+1S,Physical Chemistry and Molecular Physics,C18,millimole,amount of substance,
+1S,Physical Chemistry and Molecular Physics,C35,mole per cubic decimetre,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+1S,Physical Chemistry and Molecular Physics,D87,millimole per kilogram,ionic strength,
+1S,Physical Chemistry and Molecular Physics,E94,kilomole per second,catalytic activity,
+1S,Physical Chemistry and Molecular Physics,E95,mole per second,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+1S,Physical Chemistry and Molecular Physics,FH,micromole,amount of substance,
+1S,Physical Chemistry and Molecular Physics,K58,kilomole per hour,molar flux,
+1S,Physical Chemistry and Molecular Physics,K61,kilomole per minute,molar flux,
+1S,Physical Chemistry and Molecular Physics,L20,reciprocal cubic millimetre,"volumic number of molecules (or particles), number density of molecules (or particles), molecular concentration of B",
+1S,Physical Chemistry and Molecular Physics,L23,mole per hour,molar flux,
+1S,Physical Chemistry and Molecular Physics,L30,mole per minute,molar flux,
+1S,Physical Chemistry and Molecular Physics,M33,millimole per litre,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",
+1S,Physical Chemistry and Molecular Physics,P49,newton square metre per ampere,magnetic dipole moment,Product of the derived SI unit newton and the power of SI base unit metre with exponent 2 divided by the SI base unit ampere.
+1S,Physical Chemistry and Molecular Physics,P50,weber metre,magnetic dipole moment,Product of the derived SI unit weber and SI base unit metre.
+1S,Physical Chemistry and Molecular Physics,P51,mol per kilogram pascal,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",SI base unit mol divided by the product of the SI base unit kilogram and the derived SI unit pascal.
+1S,Physical Chemistry and Molecular Physics,P52,mol per cubic metre pascal,"volumic mass, mass density, density, mass concentration of B, amount of substance, concentration of B",SI base unit mol divided by the product of the power from the SI base unit metre with exponent 3 and the derived SI unit pascal.
+1S,Solid State Physics,D49,millivolt per kelvin,Thompson coefficient,
+1S,Space and Time,2M,centimetre per second,"velocity, phase velocity, group velocity",
+1S,Space and Time,4H,micrometre (micron),"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1S,Space and Time,A71,femtometre,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1S,Space and Time,A76,gal,"acceleration, acceleration of free fall, acceleration due to gravity",
+1S,Space and Time,B52,kilosecond,time,
+1S,Space and Time,B97,microradian,angle (plane),
+1S,Space and Time,B98,microsecond,time,
+1S,Space and Time,C16,millimetre per second,"velocity, phase velocity, group velocity",
+1S,Space and Time,C25,milliradian,angle (plane),
+1S,Space and Time,C26,millisecond,time,
+1S,Space and Time,C45,nanometre,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1S,Space and Time,C47,nanosecond,time,
+1S,Space and Time,C52,picometre,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1S,Space and Time,CLT,centilitre,volume,
+1S,Space and Time,CMK,square centimetre,area,
+1S,Space and Time,CMQ,cubic centimetre,volume,
+1S,Space and Time,DMA,cubic decametre,volume,
+1S,Space and Time,DMK,square decimetre,area,
+1S,Space and Time,DMQ,cubic decimetre,volume,
+1S,Space and Time,H16,square decametre,area,Synonym: are
+1S,Space and Time,H18,square hectometre,area,Synonym:-hectare
+1S,Space and Time,H19,cubic hectometre,volume,
+1S,Space and Time,H20,cubic kilometre,volume,
+1S,Space and Time,H30,square micrometre (square micron),area,
+1S,Space and Time,HLT,hectolitre,volume,
+1S,Space and Time,J36,microlitre per litre,volume ratio,
+1S,Space and Time,J87,cubic centimetre per cubic metre,volume ratio,
+1S,Space and Time,J91,cubic decimetre per cubic metre,volume ratio,
+1S,Space and Time,K62,litre per litre,volume ratio,
+1S,Space and Time,KMH,kilometre per hour,"velocity, phase velocity, group velocity",
+1S,Space and Time,KMK,square kilometre,area,
+1S,Space and Time,KMT,kilometre,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1S,Space and Time,L19,millilitre per litre,volume ratio,
+1S,Space and Time,L21,cubic millimetre per cubic metre,volume ratio,
+1S,Space and Time,M55,metre per radiant,solid angle,Unit of the translation factor for implementation from rotation to linear movement.
+1S,Space and Time,M59,metre per second pascal,"velocity, phase velocity, group velocity",SI base unit meter divided by the product of SI base unit second and the derived SI unit pascal.
+1S,Space and Time,M71,cubic metre per pascal,volume,Power of the SI base unit meter by exponent 3 divided by the derived SI base unit pascal.
+1S,Space and Time,MLT,millilitre,volume,
+1S,Space and Time,MMK,square millimetre,area,
+1S,Space and Time,MMQ,cubic millimetre,volume,
+1S,Space and Time,MMT,millimetre,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+1S,Space and Time,Q32,femtolitre,volume,
+1S,Space and Time,Q33,picolitre,volume,
+1S,Space and Time,Q34,nanolitre,volume,
+"1S,3.5",Space and Time,CMT,centimetre,"length, breadth, height, thickness, radius, radius of curvature, cartesian coordinates, diameter, length of path, distance",
+2S,Atomic and Nuclear Physics,2R,kilocurie,activity,
+2S,Atomic and Nuclear Physics,M5,microcurie,activity,
+2S,Atomic and Nuclear Physics,MCU,millicurie,activity,
+3.1,,24,theoretical pound,,A unit of mass defining the expected mass of material expressed as the number of pounds.
+3.1,,27,theoretical ton,,"A unit of mass defining the expected mass of material, expressed as the number of tons."
+3.1,,58,net kilogram,,A unit of mass defining the total number of kilograms after deductions.
+3.1,,2G,volt AC,,A unit of electric potential in relation to alternating current (AC).
+3.1,,2H,volt DC,,A unit of electric potential in relation to direct current (DC).
+3.1,,B3,batting pound,,A unit of mass defining the number of pounds of wadded fibre.
+3.1,,B82,inch per linear foot,,A unit of length defining the number of inches per linear foot.
+3.1,,BPM,beats per minute,,The number of beats per minute.
+3.1,,C79,kilovolt ampere hour,,A unit of accumulated energy of 1000 volt amperes over a period of one hour.
+3.1,,CTG,content gram,,A unit of mass defining the number of grams of a named item in a product.
+3.1,,CTN,content ton (metric),,A unit of mass defining the number of metric tons of a named item in a product.
+3.1,,D03,kilowatt hour per hour,,A unit of accumulated energy of a thousand watts over a period of one hour.
+3.1,,D78,megajoule per second,,A unit of accumulated energy equal to one million joules per second.
+3.1,,DB,dry pound,,"A unit of mass defining the number of pounds of a product, disregarding the water content of the product."
+3.1,,DMO,standard kilolitre,,"A unit of volume defining the number of kilolitres of a product at a temperature of 15 degrees Celsius, especially in relation to hydrocarbon oils."
+3.1,,DT,dry ton,,"A unit of mass defining the number of tons of a product, disregarding the water content of the product."
+3.1,,E07,megawatt hour per hour,,A unit of accumulated energy of a million watts over a period of one hour.
+3.1,,E08,megawatt per hertz,,A unit of energy expressed as the load change in million watts that will cause a frequency shift of one hertz.
+3.1,,E16,million Btu(IT) per hour,,A unit of power equal to one million British thermal units per hour.
+3.1,,E17,cubic foot per second,,A unit of volume equal to one cubic foot passing a given point in a period of one second.
+3.1,,E19,ping,,A unit of area equal to 3.3 square metres.
+3.1,,E28,air dry ton,,"A unit of mass defining the number of tons of a product, disregarding the water content of the product."
+3.1,,E31,square metre per litre,,A unit of count defining the number of square metres per litre.
+3.1,,E32,litre per hour,,A unit of count defining the number of litres per hour.
+3.1,,E33,foot per thousand,,A unit of count defining the number of feet per thousand units.
+3.1,,E4,gross kilogram,,A unit of mass defining the total number of kilograms before deductions.
+3.1,,E46,kilowatt hour per cubic metre,,A unit of energy consumption expressed as kilowatt hour per cubic metre.
+3.1,,E47,kilowatt hour per kelvin,,A unit of energy consumption expressed as kilowatt hour per kelvin.
+3.1,,E90,reciprocal centimetre,,
+3.1,,E91,reciprocal day,,
+3.1,,EQ,equivalent gallon,,A unit of volume defining the number of gallons of product produced from concentrate.
+3.1,,FBM,fibre metre,,A unit of length defining the number of metres of individual fibre.
+3.1,,FL,flake ton,,A unit of mass defining the number of tons of a flaked substance (flake: a small flattish fragment).
+3.1,,GDW,"gram, dry weight",,"A unit of mass defining the number of grams of a product, disregarding the water content of the product."
+3.1,,GFI,gram of fissile isotope,,A unit of mass defining the number of grams of a fissile isotope (fissile isotope: an isotope whose nucleus is able to be split when irradiated with low energy neutrons).
+3.1,,GIC,"gram, including container",,"A unit of mass defining the number of grams of a product, including its container."
+3.1,,GIP,"gram, including inner packaging",,"A unit of mass defining the number of grams of a product, including its inner packaging materials."
+3.1,,HDW,"hundred kilogram, dry weight",,"A unit of mass defining the number of hundred kilograms of a product, disregarding the water content of the product."
+3.1,,HKM,"hundred kilogram, net mass",,"A unit of mass defining the number of hundred kilograms of a product, after deductions."
+3.1,,HPA,hectolitre of pure alcohol,,A unit of volume equal to one hundred litres of pure alcohol.
+3.1,,JPS,hundred metre,,A unit of count defining the number of 100 metre lengths.
+3.1,,KCC,kilogram of choline chloride,,A unit of mass equal to one thousand grams of choline chloride.
+3.1,,KDW,kilogram drained net weight,,"A unit of mass defining the net number of kilograms of a product, disregarding the liquid content of the product."
+3.1,,KHY,kilogram of hydrogen peroxide,,A unit of mass equal to one thousand grams of hydrogen peroxide.
+3.1,,KI,kilogram per millimetre width,,
+3.1,,KIC,"kilogram, including container",,"A unit of mass defining the number of kilograms of a product, including its container."
+3.1,,KIP,"kilogram, including inner packaging",,"A unit of mass defining the number of kilograms of a product, including its inner packaging materials."
+3.1,,KMA,kilogram of methylamine,,A unit of mass equal to one thousand grams of methylamine.
+3.1,,KNI,kilogram of nitrogen,,A unit of mass equal to one thousand grams of nitrogen.
+3.1,,KNS,kilogram named substance,,A unit of mass equal to one kilogram of a named substance.
+3.1,,KPH,kilogram of potassium hydroxide (caustic potash),,A unit of mass equal to one thousand grams of potassium hydroxide (caustic potash).
+3.1,,KPO,kilogram of potassium oxide,,A unit of mass equal to one thousand grams of potassium oxide.
+3.1,,KPP,kilogram of phosphorus pentoxide (phosphoric anhydride),,A unit of mass equal to one thousand grams of phosphorus pentoxide phosphoric anhydride.
+3.1,,KSD,kilogram of substance 90 % dry,,A unit of mass equal to one thousand grams of a named substance that is 90% dry.
+3.1,,KSH,kilogram of sodium hydroxide (caustic soda),,A unit of mass equal to one thousand grams of sodium hydroxide (caustic soda).
+3.1,,KUR,kilogram of uranium,,A unit of mass equal to one thousand grams of uranium.
+3.1,,KWO,kilogram of tungsten trioxide,,A unit of mass equal to one thousand grams of tungsten trioxide.
+3.1,,LF,linear foot,,A unit of count defining the number of feet (12-inch) in length of a uniform width object.
+3.1,,LH,labour hour,,A unit of time defining the number of labour hours.
+3.1,,LM,linear metre,,A unit of count defining the number of metres in length of a uniform width object.
+3.1,,LP,liquid pound,,A unit of mass defining the number of pounds of a liquid substance.
+3.1,,LPA,litre of pure alcohol,,A unit of volume equal to one litre of pure alcohol.
+3.1,,LUB,"metric ton, lubricating oil",,A unit of mass defining the number of metric tons of lubricating oil.
+3.1,,LY,linear yard,,A unit of count defining the number of 36-inch units in length of a uniform width object.
+3.1,,MAH,megavolt ampere reactive hour,,A unit of electrical reactive power defining the total amount of reactive power across a power system.
+3.1,,MD,air dry metric ton,,"A unit of count defining the number of metric tons of a product, disregarding the water content of the product."
+3.1,,MND,"kilogram, dry weight",,"A unit of mass defining the number of kilograms of a product, disregarding the water content of the product."
+3.1,,ODE,ozone depletion equivalent,,"A unit of mass defining the ozone depletion potential in kilograms of a product relative to the calculated depletion for the reference substance, Trichlorofluoromethane (CFC-11)."
+3.1,,ODG,ODS Grams,,"A unit of measure calculated by multiplying the mass of the substance in grams and the ozone-depleting potential for the substance."
+3.1,,ODK,ODS Kilograms,,A unit of measure calculated by multiplying the mass of the substance in kilograms and the ozone-depleting potential for the substance.
+3.1,,ODM,ODS Milligrams,,A unit of measure calculated by multiplying the mass of the substance in milligrams and the ozone-depleting potential for the substance.
+3.1,,OT,overtime hour,,A unit of time defining the number of overtime hours.
+3.1,,PFL,proof litre,,"A unit of volume equal to one litre of proof spirits, or the alcohol equivalent thereof. Used for measuring the strength of distilled alcoholic liquors, expressed as a percentage of the alcohol content of a standard mixture at a specific temperature."
+3.1,,PGL,proof gallon,,"A unit of volume equal to one gallon of proof spirits, or the alcohol equivalent thereof. Used for measuring the strength of distilled alcoholic liquors, expressed as a percentage of the alcohol content of a standard mixture at a specific temperature."
+3.1,,Q36,square metre per cubic metre,,A unit of the amount of surface area per unit volume of an object or collection of objects.
+3.1,,RH,running or operating hour,,A unit of time defining the number of hours of operation.
+3.1,,SQR,"square, roofing",,"A unit of count defining the number of squares of roofing materials, measured in multiples of 100 square feet."
+3.1,,STL,standard litre,,"A unit of volume defining the number of litres of a product at a temperature of 15 degrees Celsius, especially in relation to hydrocarbon oils."
+3.1,,TIC,"metric ton, including container",,"A unit of mass defining the number of metric tons of a product, including its container."
+3.1,,TIP,"metric ton, including inner packaging",,"A unit of mass defining the number of metric tons of a product, including its inner packaging materials."
+3.1,,TPI,teeth per inch,,The number of teeth per inch.
+3.1,,W2,wet kilo,,"A unit of mass defining the number of kilograms of a product, including the water content of the product."
+3.1,,WB,wet pound,,"A unit of mass defining the number of pounds of a material, including the water content of the material."
+3.1,,WE,wet ton,,"A unit of mass defining the number of tons of a material, including the water content of the material."
+3.1,,WG,wine gallon,,A unit of volume equal to 231 cubic inches.
+3.1,,WM,working month,,A unit of time defining the number of working months.
+3.2,,ACT,activity,,A unit of count defining the number of activities (activity: a unit of work or action).
+3.2,,D04,lot [unit of weight],,A unit of weight equal to about 1/2 ounce or 15 grams.
+3.2,,DAD,ten day,,A unit of time defining the number of days in multiples of 10.
+3.2,,DPC,dozen piece,,"A unit of count defining the number of pieces in multiples of 12 (piece: a single item, article or exemplar)."
+3.2,,DPR,dozen pair,,A unit of count defining the number of pairs in multiples of 12 (pair: item described by two's).
+3.2,,DRL,dozen roll,,"A unit of count defining the number of rolls, expressed in twelve roll units."
+3.2,,DZP,dozen pack,,A unit of count defining the number of packs in multiples of 12 (pack: standard packaging unit).
+3.2,,EA,each,,A unit of count defining the number of items regarded as separate units.
+3.2,,H21,blank,,A unit of count defining the number of blanks.
+3.2,,HBX,hundred boxes,,A unit of count defining the number of boxes in multiples of one hundred box units.
+3.2,,KT,kit,,"A unit of count defining the number of kits (kit: tub, barrel or pail)."
+3.2,,P5,five pack,,A unit of count defining the number of five-packs (five-pack: set of five items packaged together).
+3.2,,SET,set,,A unit of count defining the number of sets (set: a number of objects grouped together).
+3.2,,TP,ten pack,,A unit of count defining the number of items in multiples of 10.
+"3.2,3.8",,CNP,hundred pack,,A unit of count defining the number of hundred-packs (hundred-pack: set of one hundred items packaged together).
+3.4,,20,twenty foot container,,A unit of count defining the number of shipping containers that measure 20 foot in length.
+3.4,,21,forty foot container,,A unit of count defining the number of shipping containers that measure 40 foot in length.
+3.4,,A43,deadweight tonnage,,"A unit of mass defining the difference between the weight of a ship when completely empty and its weight when completely loaded, expressed as the number of tons."
+3.4,,A75,freight ton,,"A unit of information typically used for billing purposes, defined as either the number of metric tons or the number of cubic metres, whichever is the larger."
+3.4,,CCT,carrying capacity in metric ton,,"A unit of mass defining the carrying capacity, expressed as the number of metric tons."
+3.4,,DPT,displacement tonnage,,"A unit of mass defining the volume of sea water a ship displaces, expressed as the number of tons."
+3.4,,E22,TEU,,A unit of count defining the number of twenty-foot equivalent units (TEUs) as a measure of containerized cargo capacity.
+3.4,,NL,load,,A unit of volume defining the number of loads (load: a quantity of items carried or processed at one time).
+3.4,,NT,net ton,,"A unit of mass equal to 2000 pounds, see ton (US). Refer International Convention on tonnage measurement of Ships."
+3.4,,RT,revenue ton mile,,"A unit of information typically used for billing purposes, expressed as the number of revenue tons (revenue ton: either a metric ton or a cubic metres, whichever is the larger), moved over a distance of one mile."
+3.4,,SX,shipment,,A unit of count defining the number of shipments (shipment: an amount of goods shipped or transported).
+3.4,,TKM,tonne kilometre,,"A unit of information typically used for billing purposes, expressed as the number of tonnes (metric tons) moved over a distance of one kilometre. "
+3.5,,5J,hydraulic horse power,,A unit of power defining the-hydraulic horse power delivered by a fluid pump depending on-the viscosity of the fluid.
+3.5,,A47,decitex,,A unit of yarn density. One decitex equals a mass of 1 gram per 10 kilometres of length.
+3.5,,A49,denier,,A unit of yarn density. One denier equals a mass of 1 gram per 9 kilometres of length.
+3.5,,AH,additional minute,,A unit of time defining the number of minutes in addition to the referenced minutes.
+3.5,,AI,average minute per call,,A unit of count defining the number of minutes for the average interval of a call.
+3.5,,AL,access line,,A unit of count defining the number of telephone access lines.
+3.5,,ASM,alcoholic strength by mass,,A unit of mass defining the alcoholic strength of a liquid.
+3.5,,ASU,alcoholic strength by volume,,"A unit of volume defining the alcoholic strength of a liquid (e.g. spirit, wine, beer, etc), often at a specific temperature."
+3.5,,B1,barrel (US) per day,,
+3.5,,B4,"barrel, imperial",,A unit of volume used to measure beer. One beer barrel equals 36 imperial gallons.
+3.5,,BB,base box,,"A unit of area of 112 sheets of tin mil products (tin plate, tin free steel or black plate) 14 by 20 inches, or 31,360 square inches."
+3.5,,BFT,board foot,,A unit of volume defining the number of cords (cord: a stack of firewood of 128 cubic feet).
+3.5,,BP,hundred board foot,,A unit of volume equal to one hundred board foot.
+3.5,,C0,call,,A unit of count defining the number of calls (call: communication session or visitation).
+3.5,,CNT,cental (UK),,A unit of mass equal to one hundred weight (US).
+3.5,,CTM,metric carat,,
+3.5,,D34,tex,,A unit of yarn density. One decitex equals a mass of 1 gram per 1 kilometre of length.
+3.5,,DRA,dram (US),,"Synonym: drachm (UK), troy dram"
+3.5,,DRI,dram (UK),,Synonym: avoirdupois dram
+3.5,,DWT,pennyweight,,
+3.5,,E10,degree day,,A unit of measure used in meteorology and engineering to measure the demand for heating or cooling over a given period of days.
+3.5,,E44,kilogram-force metre per square centimetre,,A unit of torsion defining the torque kilogram-force metre per square centimetre.
+3.5,,E48,service unit,,A unit of count defining the number of service units (service unit: defined period / property / facility / utility of supply).
+3.5,,E49,working day,,A unit of count defining the number of working days (working day: a day on which work is ordinarily performed).
+3.5,,E50,accounting unit,,A unit of count defining the number of accounting units.
+3.5,,E51,job,,A unit of count defining the number of jobs.
+3.5,,E52,run foot,,A unit of count defining the number feet per run.
+3.5,,E53,test,,A unit of count defining the number of tests.
+3.5,,E54,trip,,A unit of count defining the number of trips.
+3.5,,E55,use,,A unit of count defining the number of times an object is used.
+3.5,,E56,well,,A unit of count defining the number of wells.
+3.5,,E57,zone,,A unit of count defining the number of zones.
+3.5,,GB,gallon (US) per day,,
+3.5,,GIA,gill (US),,
+3.5,,GII,gill (UK),,
+3.5,,H82,big point,,A unit of length defining the number of big points (big point: Adobe software(US) defines the big point to be exactly 1/72 inch (0.013 888 9 inch or 0.352 777 8 millimeters))
+3.5,,HEA,head,,A unit of count defining the number of heads (head: a person or animal considered as one of a number).
+3.5,,ISD,international sugar degree,,"A unit of measure defining the sugar content of a solution, expressed in degrees."
+3.5,,J13,degree API,,A unit of relative density as a measure of how heavy or light a petroleum liquid is compared to water (API: American Petroleum Institute).
+3.5,,J14,degree Baume (origin scale),,A traditional unit of relative density for liquids. Named after Antoine Baum-.
+3.5,,J15,degree Baume (US heavy),,A unit of relative density for liquids heavier than water.
+3.5,,J16,degree Baume (US light),,A unit of relative density for liquids lighter than water.
+3.5,,J17,degree Balling,,"A unit of density as a measure of sugar content, especially of beer wort. Named after Karl Balling."
+3.5,,J18,degree Brix,,A unit of proportion used in measuring the dissolved sugar-to-water mass ratio of a liquid. Named after Adolf Brix.
+3.5,,J27,degree Oechsle,,"A unit of density as a measure of sugar content of must, the unfermented liqueur from which wine is made. Named after Ferdinand Oechsle."
+3.5,,J31,degree Twaddell,,A unit of density for liquids that are heavier than water. 1 degree Twaddle represents a difference in specific gravity of 0.005.
+3.5,,JNT,pipeline joint,,A count of the number of pipeline joints.
+3.5,,K1,kilowatt demand,,A unit of measure defining the power load measured at predetermined intervals.
+3.5,,K2,kilovolt ampere reactive demand,,A unit of measure defining the reactive power demand equal to one kilovolt ampere of reactive power.
+3.5,,K3,kilovolt ampere reactive hour,,A unit of measure defining the accumulated reactive energy equal to one kilovolt ampere of reactive power per hour.
+3.5,,KLK,lactic dry material percentage,,A unit of proportion defining the percentage of dry lactic material in a product.
+3.5,,LAC,lactose excess percentage,,A unit of proportion defining the percentage of lactose in a product that exceeds a defined percentage level.
+3.5,,LBT,troy pound (US),,
+3.5,,LEF,leaf,,A unit of count defining the number of leaves.
+3.5,,MBE,thousand standard brick equivalent,,A unit of count defining the number of one thousand brick equivalent units.
+3.5,,MBF,thousand board foot,,A unit of volume equal to one thousand board foot.
+3.5,,N3,print point,,
+3.5,,P88,rhe,,Non SI-conforming unit of fluidity of dynamic viscosity.
+3.5,,P89,pound-force foot per inch,,Unit for length-related rotational moment according to the Anglo-American and Imperial system of units.
+3.5,,P90,pound-force inch per inch ,,Unit for length-related rotational moment according to the Anglo-American and Imperial system of units.
+3.5,,P91,perm (0 -C) ,,"Traditional unit for the ability of a material to allow the transition of the steam, defined at a temperature of 0 -C as steam transmittance, where the mass of one grain steam penetrates an area of one foot squared at a pressure from one inch mercury per hour."
+3.5,,P92,perm (23 -C) ,,"Traditional unit for the ability of a material to allow the transition of the steam, defined at a temperature of 23 -C as steam transmittance at which the mass of one grain of steam penetrates an area of one square foot at a pressure of one inch mercury per hour."
+3.5,,P96,reciprocal volt,,Reciprocal of the derived SI unit volt.
+3.5,,P97,reciprocal radian,,Reciprocal of the unit radian.
+3.5,,P98,pascal to the power sum of stoichiometric numbers,,"Unit of the equilibrium constant on the basis of the pressure(ISO 80000-9:2009, 9-35.a)."
+3.5,,P99,mole per cubiv metre to the power sum of stoichiometric numbers,,"Unit of the equilibrium constant on the basis of the concentration (ISO 80000-9:2009, 9-36.a)."
+3.5,,PI,pitch,,A unit of count defining the number of characters that fit in a horizontal inch.
+3.5,,PLA,degree Plato,,"A unit of proportion defining the sugar content of a product, especially in relation to beer."
+3.5,,PQ,page per inch,,"A unit of quantity defining the degree of thickness of a bound publication, expressed as the number of pages per inch of thickness."
+3.5,,PTN,portion,,"A quantity of allowance of food allotted to, or enough for, one person."
+3.5,,Q10,joule per tesla,,Unit of the magnetic dipole moment of the molecule as derived SI unit joule divided by the derived SI unit tesla.
+3.5,,Q20,second per kilogramm,,"Unit of the Einstein transition probability for spontaneous or inducing emissions and absorption according to ISO 80000-7:2008, expressed as SI base unit second divided by the SI base unit kilogram."
+3.5,,Q21,watt square metre,,"Unit of the first radiation constants c1 = 2-p-h-c0-, the value of which is 3,741 771 18-10?-6-fold  that of the comparative value of the product of the derived SI unit watt multiplied with the power of the SI base unit metre with the exponent 2."
+3.5,,Q22,second per radian cubic metre,,Unit of the density of states as an expression of angular frequency as complement of the product of hertz and radiant and the power of SI base unit metre by exponent 3 .
+3.5,,Q23,weber to the power minus one,,"Complement of the derived SI unit weber as unit of the Josephson constant, which value is equal to the 384 597,891-fold of the reference value gigahertz divided by volt."
+3.5,,Q24,reciprocal inch,,Complement of the unit inch according to the Anglo-American and Imperial system of units.
+3.5,,Q25,dioptre,,Unit used at the statement of relative refractive indexes of optical systems as complement of the focal length with correspondence to: 1 dpt = 1/m.
+3.5,,Q26,one per one,,Value of the quotient from two physical units of the same kind as a numerator and denominator whereas the units are shortened mutually.
+3.5,,Q27,newton metre per metre,,Unit for length-related rotational moment as product of the derived SI unit newton and the SI base unit metre divided by the SI base unit metre.
+3.5,,Q28,kilogram per square metre pascal second,,Unit for the ability of a material to allow the transition of steam.
+3.5,,QA,page - facsimile,,A unit of count defining the number of facsimile pages.
+3.5,,QB,page - hardcopy,,"A unit of count defining the number of hardcopy pages (hardcopy page: a page rendered as printed or written output on paper, film, or other permanent medium)."
+3.5,,QR,quire,,"A unit of count for paper, expressed as the number of quires (quire: a number of paper sheets, typically 25)."
+3.5,,QTR,quarter (UK),,"A traditional unit of weight equal to 1/4 hundredweight. In the United Kingdom, one quarter equals 28 pounds."
+3.5,,R1,pica,,A unit of count defining the number of picas. (pica: typographical length equal to 12 points or 4.22 mm (approx.)).
+3.5,,RM,ream,,"A unit of count for paper, expressed as the number of reams (ream: a large quantity of paper sheets, typically 500)."
+3.5,,RP,pound per ream,,"A unit of mass for paper, expressed as pounds per ream. (ream: a large quantity of paper, typically 500 sheets)."
+3.5,,SCR,scruple,,
+3.5,,T0,telecommunication line in service,,A unit of count defining the number of lines in service.
+3.5,,TAN,total acid number,,A unit of chemistry defining the amount of potassium hydroxide (KOH) in milligrams that is needed to neutralize the acids in one gram of oil. It is an important quality measurement of crude oil.
+3.5,,TMS,"kilogram of imported meat, less offal",,"A unit of mass equal to one thousand grams of imported meat, disregarding less valuable by-products such as the entrails."
+3.5,,UB,telecommunication line in service average,,A unit of count defining the average number of lines in service.
+3.5,,UC,telecommunication port,,A unit of count defining the number of network access ports.
+3.5,,WCD,cord,,A unit of volume used for measuring lumber. One board foot equals 1/12 of a cubic foot.
+3.5,,WSD,standard,,"A unit of volume of finished lumber equal to 165 cubic feet. Synonym: standard cubic foot"
+3.5,,ZP,page,,A unit of count defining the number of pages.
+3.6,,2P,kilobyte,,A unit of information equal to 10- (1000) bytes.
+3.6,,4L,megabyte,,A unit of information equal to 10? (1000000) bytes.
+3.6,,A99,bit,,A unit of information equal to one binary digit.
+3.6,,AD,byte,,A unit of information equal to 8 bits.
+3.6,,B10,bit per second,,A unit of information equal to one binary digit per second.
+3.6,,B30,gibibit,,A unit of information equal to 2-? bits (binary digits).
+3.6,,B68,gigabit,,A unit of information equal to 10? bits (binary digits).
+3.6,,B80,gigabit per second,,A unit of information equal to 10? bits (binary digits) per second.
+3.6,,C21,kibibit,,A unit of information equal to 2-? (1024) bits (binary digits).
+3.6,,C37,kilobit,,A unit of information equal to 10- (1000) bits (binary digits).
+3.6,,C74,kilobit per second,,A unit of information equal to 10- (1000) bits (binary digits) per second.
+3.6,,D11,mebibit,,A unit of information equal to 2-? (1048576) bits (binary digits).
+3.6,,D36,megabit,,A unit of information equal to 10? (1000000) bits (binary digits).
+3.6,,E20,megabit per second,,A unit of information equal to 10? (1000000) bits (binary digits) per second.
+3.6,,E34,gigabyte,,A unit of information equal to 10? bytes.
+3.6,,E35,terabyte,,A unit of information equal to 10-- bytes.
+3.6,,E36,petabyte,,A unit of information equal to 10-? bytes.
+3.6,,E37,pixel,,A unit of count defining the number of pixels (pixel: picture element).
+3.6,,E38,megapixel,,A unit of count equal to 10? (1000000) pixels (picture elements).
+3.6,,E39,dots per inch,,A unit of information defining the number of dots per linear inch as a measure of the resolution or sharpness of a graphic image.
+3.6,,E58,exabit per second,,A unit of information equal to 10-? bits (binary digits) per second.
+3.6,,E59,exbibyte,,A unit of information equal to 2?? bytes.
+3.6,,E60,pebibyte,,A unit of information equal to 2?? bytes.
+3.6,,E61,tebibyte,,A unit of information equal to 2?? bytes.
+3.6,,E62,gibibyte,,A unit of information equal to 2-? bytes.
+3.6,,E63,mebibyte,,A unit of information equal to 2-? bytes.
+3.6,,E64,kibibyte,,A unit of information equal to 2-? bytes.
+3.6,,E65,exbibit per metre,,A unit of information equal to 2?? bits (binary digits) per metre.
+3.6,,E66,exbibit per square metre,,A unit of information equal to 2?? bits (binary digits) per square metre.
+3.6,,E67,exbibit per cubic metre,,A unit of information equal to 2?? bits (binary digits) per cubic metre.
+3.6,,E68,gigabyte per second,,A unit of information equal to 10? bytes per second.
+3.6,,E69,gibibit per metre,,A unit of information equal to 2-? bits (binary digits) per metre.
+3.6,,E70,gibibit per square metre,,A unit of information equal to 2-? bits (binary digits) per square metre.
+3.6,,E71,gibibit per cubic metre,,A unit of information equal to 2-? bits (binary digits) per cubic metre.
+3.6,,E72,kibibit per metre,,A unit of information equal to 2-? bits (binary digits) per metre.
+3.6,,E73,kibibit per square metre,,A unit of information equal to 2-? bits (binary digits) per square metre.
+3.6,,E74,kibibit per cubic metre,,A unit of information equal to 2-? bits (binary digits) per cubic metre.
+3.6,,E75,mebibit per metre,,A unit of information equal to 2-? bits (binary digits) per metre.
+3.6,,E76,mebibit per square metre,,A unit of information equal to 2-? bits (binary digits) per square metre.
+3.6,,E77,mebibit per cubic metre,,A unit of information equal to 2-? bits (binary digits) per cubic metre.
+3.6,,E78,petabit,,A unit of information equal to 10-? bits (binary digits).
+3.6,,E79,petabit per second,,A unit of information equal to 10-? bits (binary digits) per second.
+3.6,,E80,pebibit per metre,,A unit of information equal to 2?? bits (binary digits) per metre.
+3.6,,E81,pebibit per square metre,,A unit of information equal to 2?? bits (binary digits) per square metre.
+3.6,,E82,pebibit per cubic metre,,A unit of information equal to 2?? bits (binary digits) per cubic metre.
+3.6,,E83,terabit,,A unit of information equal to 10-- bits (binary digits).
+3.6,,E84,terabit per second,,A unit of information equal to 10-- bits (binary digits) per second.
+3.6,,E85,tebibit per metre,,A unit of information equal to 2?? bits (binary digits) per metre.
+3.6,,E86,tebibit per cubic metre,,A unit of information equal to 2?? bits (binary digits) per cubic metre.
+3.6,,E87,tebibit per square metre,,A unit of information equal to 2?? bits (binary digits) per square metre.
+3.6,,E88,bit per metre,,A unit of information equal to 1 bit (binary digit) per metre.
+3.6,,E89,bit per square metre,,A unit of information equal to 1 bit (binary digit) per square metre.
+3.6,,F01,bit per cubic metre,,A unit of information equal to 1 bit (binary digit) per cubic metre.
+3.6,,J38,baud,,A unit of signal transmission speed equal to one signalling event per second.
+3.6,,J54,megabaud,,A unit of signal transmission speed equal to 10? (1000000) signaling events per second.
+3.6,,K50,kilobaud,,A unit of signal transmission speed equal to 10- (1000) signaling events per second.
+3.6,,KJ,kilosegment,,A unit of information equal to 10- (1000) segments.
+3.6,,P93,byte per second,,Unit byte divided by the SI base unit second.
+3.6,,P94,kilobyte per second,,1000-fold of the unit byte divided by the SI base unit second.
+3.6,,P95,megabyte per second,,1 000 000-fold of the unit byte divided by the SI base unit second.
+3.6,,Q11,erlang,,Unit of the market value according to the feature of a single feature as a statistical measurement of the existing utilization.
+3.6,,Q12,octet,,Synonym for byte: 1 octet = 8 bit = 1 byte.
+3.6,,Q13,octet per second,,Unit octet divided by the SI base unit second.
+3.6,,Q14,shannon,,"Logarithmic unit for information equal to the content of decision of a sentence of two mutually exclusive events, expressed as a logarithm to base 2."
+3.6,,Q15,hartley,,"Logarithmic unit for information equal to the content of decision of a sentence of ten mutually exclusive events, expressed as a logarithm to base 10."
+3.6,,Q16,natural unit of information,,"Logarithmic unit for information equal to the content of decision of a sentence of ,718 281 828 459 mutually exclusive events, expressed as a logarithm to base Euler value e."
+3.6,,Q17,shannon per second,,"Time related logarithmic unit for information equal to the content of decision of a sentence of two mutually exclusive events, expressed as a logarithm to base 2."
+3.6,,Q18,hartley per second,,"Time related logarithmic unit for information equal to the content of decision of a sentence of ten mutually exclusive events, expressed as a logarithm to base 10."
+3.6,,Q19,natural unit of information per second,,"Time related logarithmic unit for information equal to the content of decision of a sentence of 2,718 281 828 459 mutually exclusive events, expressed as a logarithm to base of the Euler value e."
+3.7,,59,part per million,,A unit of proportion equal to 10??.
+3.7,,60,percent weight,,A unit of proportion equal to 10?-.
+3.7,,61,part per billion (US),,A unit of proportion equal to 10??.
+3.7,,B19,digit,,A unit of information defining the quantity of numerals used to form a number.
+3.7,,BIL,billion (EUR),,Synonym: trillion (US)
+3.7,,CEN,hundred,,A unit of count defining the number of units in multiples of 100.
+3.7,,D68,number of words,,A unit of count defining the number of words.
+3.7,,DZN,dozen,,A unit of count defining the number of units in multiples of 12.
+3.7,,E21,shares,,A unit of count defining the number of shares (share: a total or portion of the parts into which a business entity-s capital is divided).
+3.7,,E23,tyre,,"A unit of count defining the number of tyres (a solid or air-filled covering placed around a wheel rim to form a soft contact with the road, absorb shock and provide traction)."
+3.7,,E30,strand,,"A unit of count defining the number of strands (strand: long, thin, flexible, single thread, strip of fibre, constituent filament or multiples of the same, twisted together)."
+3.7,,E40,part per hundred thousand,,A unit of proportion equal to 10??.
+3.7,,GGR,great gross,,A unit of count defining the number of units in multiples of 1728 (12 x 12 x 12).
+3.7,,GRO,gross,,A unit of count defining the number of units in multiples of 144 (12 x 12).
+3.7,,H25,percent per kelvin,,"A unit of proportion, equal to 0.01, in relation to the SI base unit Kelvin."
+3.7,,H71,percent per month,,"A unit of proportion, equal to 0.01, in relation to a month."
+3.7,,H72,percent per hectobar,,"A unit of proportion, equal to 0.01, in relation to 100-fold of the unit bar."
+3.7,,H73,percent per decakelvin,,"A unit of proportion, equal to 0.01, in relation to 10-fold of the SI base unit Kelvin."
+3.7,,H89,percent per ohm,,"A unit of proportion, equal to 0.01, in relation to the SI derived unit ohm."
+3.7,,H90,percent per degree,,"A unit of proportion, equal to 0.01, in relation to an angle of one degree."
+3.7,,H91,percent per ten thousand,,"A unit of proportion, equal to 0.01, in relation to multiples of ten thousand."
+3.7,,H92,percent per one hundred thousand,,"A unit of proportion, equal to 0.01, in relation to multiples of one hundred thousand."
+3.7,,H93,percent per hundred,,"A unit of proportion, equal to 0.01, in relation to multiples of one hundred."
+3.7,,H94,percent per thousand,,"A unit of proportion, equal to 0.01, in relation to multiples of one thousand."
+3.7,,H95,percent per volt,,"A unit of proportion, equal to 0.01, in relation to the SI derived unit volt."
+3.7,,H96,percent per bar,,"A unit of proportion, equal to 0.01, in relation to an atmospheric pressure of one bar."
+3.7,,H98,percent per inch,,"A unit of proportion, equal to 0.01, in relation to an inch."
+3.7,,H99,percent per metre,,"A unit of proportion, equal to 0.01, in relation to a metre."
+3.7,,HC,hundred count,,A unit of count defining the number of units counted in multiples of 100.
+3.7,,HIU,hundred international unit,,A unit of count defining the number of international units in multiples of 100.
+3.7,,IUG,international unit per gram,,A unit of count defining the number of international units per gram.
+3.7,,J10,percent per millimetre,,"A unit of proportion, equal to 0.01, in relation to a millimetre."
+3.7,,J12,per mille per psi,,A unit of pressure equal to one thousandth of a psi (pound-force per square inch).
+3.7,,JWL,number of jewels,,A unit of count defining the number of jewels (jewel: precious stone).
+3.7,,M25,percent per degree Celsius,,"A unit of proportion, equal to 0.01, in relation to a temperature of one degree."
+3.7,,M36,30-day month,,"A unit of count defining the number of months expressed in multiples of 30 days, one day equals 24 hours."
+3.7,,M37,actual/360,,"A unit of count defining the number of years expressed in multiples of 360 days, one day equals 24 hours."
+3.7,,MIL,thousand,,
+3.7,,MIO,million,,
+3.7,,MIU,million international unit,,A unit of count defining the number of international units in multiples of 10?.
+3.7,,MLD,milliard,,Synonym: billion (US)
+3.7,,NAR,number of articles,,A unit of count defining the number of articles (article: item).
+3.7,,NCL,number of cells,,"A unit of count defining the number of cells (cell: an enclosed or circumscribed space, cavity, or volume)."
+3.7,,NIU,number of international units,,A unit of count defining the number of international units.
+3.7,,NMP,number of packs,,A unit of count defining the number of packs (pack: a collection of objects packaged together).
+3.7,,NPT,number of parts,,A unit of count defining the number of parts (part: component of a larger entity).
+3.7,,NX,part per thousand,,"A unit of proportion equal to 10?-. Synonym: per mille"
+3.7,,P1,percent,,A unit of proportion equal to 0.01.
+3.7,,PR,pair,,A unit of count defining the number of pairs (pair: item described by two's).
+3.7,,SCO,score,,A unit of count defining the number of units in multiples of 20.
+3.7,,TRL,trillion (EUR),,
+3.7,,VP,percent volume,,"A measure of concentration, typically expressed as the percentage volume of a solute in a solution."
+3.8,,CLF,hundred leave,,"A unit of count defining the number of leaves, expressed in units of one hundred leaves."
+3.8,,DEC,decade,,A unit of count defining the number of decades (decade: quantity equal to 10 or time equal to 10 years).
+3.8,,FC,thousand cubic foot,,A unit of volume equal to one thousand cubic foot.
+3.8,,FF,hundred cubic metre,,A unit of volume equal to one hundred cubic metres.
+3.8,,FIT,failures in time,,A unit of count defining the number of failures that can be expected over a specified time interval. Failure rates of semiconductor components are often specified as FIT (failures in time unit) where 1 FIT = 10?? /h.
+3.8,,H87,piece,,"A unit of count defining the number of pieces (piece: a single item, article or exemplar)."
+3.8,,HH,hundred cubic foot,,A unit of volume equal to one hundred cubic foot.
+3.8,,HMQ,million cubic metre,,A unit of volume equal to one million cubic metres.
+3.8,,NIL,nil,,A unit of count defining the number of instances of nothing.
+3.8,,QAN,quarter (of a year),,A unit of time defining the number of quarters (3 months).
+3.8,,R9,thousand cubic metre,,A unit of volume equal to one thousand cubic metres.
+3.8,,SAN,half year (6 months),,A unit of time defining the number of half years (6 months).
+3.8,,T3,thousand piece,,"A unit of count defining the number of pieces in multiples of 1000 (piece: a single item, article or exemplar)."
+3.8,,TI,thousand square inch,,
+3.8,,TPR,ten pair,,A unit of count defining the number of pairs in multiples of 10 (pair: item described by two's).
+3.8,,TQD,thousand cubic metre per day,,A unit of volume equal to one thousand cubic metres per day.
+3.9,,10,group,,A unit of count defining the number of groups (group: set of items classified together).
+3.9,,11,outfit,,A unit of count defining the number of outfits (outfit: a complete set of equipment / materials / objects used for a specific purpose).
+3.9,,13,ration,,A unit of count defining the number of rations (ration: a single portion of provisions).
+3.9,,14,shot,,"A unit of liquid measure, especially related to spirits."
+3.9,,15,"stick, military",,A unit of count defining the number of military sticks (military stick: bombs or paratroops released in rapid succession from an aircraft).
+3.9,,38,"ounce per square foot per 0,01inch",,
+3.9,,56,sitas,,A unit of area for tin plate equal to a surface area of 100 square metres.
+3.9,,57,mesh,,A unit of count defining the number of strands per inch as a measure of the fineness of a woven product.
+3.9,,1I,fixed rate,,A unit of quantity expressed as a predetermined or set rate for usage of a facility or service.
+3.9,,3C,manmonth,,A unit of count defining the number of months for a person or persons to perform an undertaking.
+3.9,,5B,batch,,A unit of count defining the number of batches (batch: quantity of material produced in one operation or number of animals or persons coming at once).
+3.9,,5E,MMSCF/day,,A unit of volume equal to one million (1000000) cubic feet of gas per day.
+3.9,,A59,8-part cloud cover,,"A unit of count defining the number of eighth-parts as a measure of the celestial dome cloud coverage. Synonym: OKTA , OCTA"
+3.9,,A9,rate,,A unit of quantity expressed as a rate for usage of a facility or service.
+3.9,,AA,ball,,A unit of count defining the number of balls (ball: object formed in the shape of sphere).
+3.9,,AB,bulk pack,,A unit of count defining the number of items per bulk pack.
+3.9,,AQ,anti-hemophilic factor (AHF) unit,,A unit of measure for blood potency (US).
+3.9,,AS,assortment,,A unit of count defining the number of assortments (assortment: set of items grouped in a mixed collection).
+3.9,,AY,assembly,,A unit of count defining the number of assemblies (assembly: items that consist of component parts).
+3.9,,B17,credit,,A unit of count defining the number of entries made to the credit side of an account.
+3.9,,B7,cycle,,A unit of count defining the number of cycles (cycle: a recurrent period of definite duration).
+3.9,,C9,coil group,,A unit of count defining the number of coil groups (coil group: groups of items arranged by lengths of those items placed in a joined sequence of concentric circles).
+3.9,,CG,card,,A unit of count defining the number of units of card (card: thick stiff paper or cardboard).
+3.9,,D23,pen gram (protein),,A unit of count defining the number of grams of amino acid prescribed for parenteral/enteral therapy.
+3.9,,D63,book,,A unit of count defining the number of books (book: set of items bound together or written document of a material whole).
+3.9,,D65,round,,A unit of count defining the number of rounds (round: A circular or cylindrical object).
+3.9,,E12,mille,,A unit of count defining the number of cigarettes in units of 1000.
+3.9,,E25,active unit,,A unit of count defining the number of active units within a substance.
+3.9,,E27,dose,,A unit of count defining the number of doses (dose: a definite quantity of a medicine or drug).
+3.9,,EB,electronic mail box,,A unit of count defining the number of electronic mail boxes.
+3.9,,HA,hank,,"A unit of length, typically for yarn."
+3.9,,IE,person,,A unit of count defining the number of persons.
+3.9,,KA,cake,,"A unit of count defining the number of cakes (cake: object shaped into a flat, compact mass)."
+3.9,,KB,kilocharacter,,A unit of information equal to 10^3 (1000) characters.
+3.9,,KO,milliequivalence caustic potash per gram of product,,A unit of count defining the number of milligrams of potassium hydroxide per gram of product as a measure of the concentration of potassium hydroxide in the product.
+3.9,,LK,link,,A unit of distance equal to 0.01 chain.
+3.9,,LN,length,,A unit of distance defining the linear extent of an item measured from end to end.
+3.9,,LO,lot [unit of procurement],,A unit of count defining the number of lots (lot: a collection of associated items).
+3.9,,LR,layer,,A unit of count defining the number of layers.
+3.9,,LS,lump sum,,A unit of count defining the number of whole or a complete monetary amounts.
+3.9,,M4,monetary value,,A unit of measure expressed as a monetary amount.
+3.9,,M9,million Btu per 1000 cubic foot,,
+3.9,,N1,pen calorie,,A unit of count defining the number of calories prescribed daily for parenteral/enteral therapy.
+3.9,,NF,message,,A unit of count defining the number of messages.
+3.9,,OA,panel,,"A unit of count defining the number of panels (panel: a distinct, usually rectangular, section of a surface)."
+3.9,,PD,pad,,A unit of count defining the number of pads (pad: block of paper sheets fastened together at one end).
+3.9,,Q3,meal,,A unit of count defining the number of meals (meal: an amount of food to be eaten on a single occasion).
+3.9,,ROM,room,,A unit of count defining the number of rooms.
+3.9,,SG,segment,,A unit of information equal to 64000 bytes.
+3.9,,SQ,square,,A unit of count defining the number of squares (square: rectangular shape).
+3.9,,SR,strip,,A unit of count defining the number of strips (strip: long narrow piece of an object).
+3.9,,STC,stick,,A unit of count defining the number of sticks (stick: slender and often cylindrical piece of a substance).
+3.9,,STK,"stick, cigarette",,A unit of count defining the number of cigarettes in the smallest unit for stock-taking and/or duty computation.
+3.9,,STW,straw,,A unit of count defining the number of straws (straw: a slender tube used for sucking up liquids).
+3.9,,SW,skein,,A unit of count defining the number of skeins (skein: a loosely-coiled bundle of yarn or thread).
+3.9,,SYR,syringe,,"A unit of count defining the number of syringes (syringe: a small device for pumping, spraying and/or injecting liquids through a small aperture)."
+3.9,,TST,ten set,,A unit of count defining the number of sets in multiples of 10 (set: a number of objects grouped together).
+3.9,,TTS,ten thousand sticks,,A unit of count defining the number of sticks in multiples of 10000 (stick: slender and often cylindrical piece of a substance).
+3.9,,U1,treatment,,"A unit of count defining the number of treatments (treatment: subjection to the action of a chemical, physical or biological agent)."
+3.9,,U2,tablet,,A unit of count defining the number of tablets (tablet: a small flat or compressed solid object).
+3.9,,VA,volt - ampere per kilogram,,
+3.9,,WA,watt per kilogram,,
+3.9,,Z11,hanging container,,A unit of count defining the number of hanging containers.
+3.9,,ZZ,mutually defined,,A unit of measure as agreed in common between two or more parties.
