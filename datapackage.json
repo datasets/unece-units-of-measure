@@ -18,8 +18,8 @@
   ],
   "resources": [
     {
-      "path": "data/unit-of-measure.csv",
-      "name": "unit-of-measure",
+      "path": "data/units-of-measure.csv",
+      "name": "units-of-measure",
       "mediatype": "text/csv",
       "schema": {
         "fields": [
