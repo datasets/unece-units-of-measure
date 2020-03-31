@@ -1,0 +1,17 @@
+
+apply plugin: 'java-library'
+
+sourceSets {
+    main {
+        resources {
+            srcDir file('.')
+            include('datapackage.json', 'data/**')
+        }
+    }
+}
+
+
+wrapper {
+    gradleVersion = '6.3'
+    distributionType = 'ALL'
+}
