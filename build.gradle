@@ -1,4 +1,3 @@
-
 apply plugin: 'java-library'
 
 sourceSets {
@@ -7,6 +6,9 @@ sourceSets {
             srcDir file('.')
             include('datapackage.json', 'data/**')
         }
+
+        //put the data info a well-defined folder within the jar file. this will prevent multiple datasets from clashing in classpath
+        output.resourcesDir(new File(output.resourcesDir, 'datapackage/unece-units-of-measure'))
     }
 }
 
@@ -14,4 +16,12 @@ sourceSets {
 wrapper {
     gradleVersion = '6.3'
     distributionType = 'ALL'
+}
+
+
+// include data generation config file if it exists. do nothing if not.
+new File(rootDir, 'data-generation/data-generation.gradle').tap { file ->
+    if (file.exists()) {
+        apply from: file
+    }
 }
