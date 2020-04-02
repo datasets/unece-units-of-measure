@@ -2,7 +2,8 @@ LevelAndCategory,Description
 1,Normative
 1S,Standard Multiples
 1M,Commonly Used Multiples
-2,Normative Equivalent Or Multiples
+2,Normative Equivalent
+2S,Normative Equivalent Multiples
 3,Informative
 3.1,Qualified base units from levels 1 and 2
 3.2,Sales units

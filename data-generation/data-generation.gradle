@@ -1,0 +1,36 @@
+
+repositories {
+    jcenter()
+    mavenCentral()
+    gradlePluginPortal()
+}
+
+apply plugin: 'idea'
+
+sourceSets {
+    dataGeneration {
+        java {
+            srcDir file('data-generation/java')
+        }
+        resources {
+            srcDir file('data-generation/resources')
+        }
+    }
+}
+
+dependencies {
+    dataGenerationCompileOnly "org.projectlombok:lombok:1.18.12"
+
+    dataGenerationImplementation "org.apache.commons:commons-lang3:3.10"
+    dataGenerationImplementation "commons-io:commons-io:2.6"
+    dataGenerationImplementation "org.apache.poi:poi-ooxml:4.1.2"
+    dataGenerationImplementation "com.opencsv:opencsv:5.1"
+
+}
+
+task generateData(type: JavaExec) {
+    main = 'datasets.UnitsOfMeasureDataGeneration'
+    classpath = sourceSets.dataGeneration.runtimeClasspath
+}
+
+
