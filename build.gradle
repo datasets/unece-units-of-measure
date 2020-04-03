@@ -1,3 +1,4 @@
+apply plugin: 'maven'
 apply plugin: 'java-library'
 
 sourceSets {
@@ -18,9 +19,8 @@ wrapper {
     distributionType = 'ALL'
 }
 
-
 // include data generation config file if it exists. do nothing if not.
-new File(rootDir, 'data-generation/data-generation.gradle').tap { file ->
+new File(rootDir, 'scripts/scripts.gradle').tap { file ->
     if (file.exists()) {
         apply from: file
     }

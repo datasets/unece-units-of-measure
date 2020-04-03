@@ -10,10 +10,10 @@ apply plugin: 'idea'
 sourceSets {
     dataGeneration {
         java {
-            srcDir file('data-generation/java')
+            srcDir file('scripts/java')
         }
         resources {
-            srcDir file('data-generation/resources')
+            srcDir file('scripts/resources')
         }
     }
 }
