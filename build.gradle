@@ -1,4 +1,4 @@
-
+apply plugin: 'maven'
 apply plugin: 'java-library'
 
 sourceSets {
@@ -14,4 +14,21 @@ sourceSets {
 wrapper {
     gradleVersion = '6.3'
     distributionType = 'ALL'
+}
+
+
+processResources {
+    //put the data info a well-defined folder within the jar file. this will prevent multiple datapackages from clashing in classpath
+    eachFile { FileCopyDetails details ->
+        details.path('datapackage/unece-units-of-measure/' + details.getPath())
+    }
+    includeEmptyDirs = false
+}
+
+
+// include data generation config file if it exists. do nothing if not.
+new File(rootDir, 'scripts/scripts.gradle').tap { file ->
+    if (file.exists()) {
+        apply from: file
+    }
 }

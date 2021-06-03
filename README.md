@@ -23,7 +23,7 @@ See the [jitpack documentation](https://jitpack.io/docs/) for further details.
 ### Zip download
 Because .jar files are in essence just normal .zip files, it is perfectly possible to use the jitpack artifact as a zip file source for non-JVM usage. 
 
-URL pattern: ht<span>tps:</span>//jitpack.io/com/github/datasets/unece-units-of-measure/<name-of-the-tag>/unece-units-of-measure-<name-of-the-tag>.jar \
+URL pattern: ht<span>tps:</span>//jitpack.io/com/github/datasets/unece-units-of-measure/&lt;name-of-the-tag&gt;/unece-units-of-measure-&lt;name-of-the-tag&gt;.jar \
 URL example: https://jitpack.io/com/github/datasets/unece-units-of-measure/rec20_Rev13e_2017/unece-units-of-measure-rec20_Rev13e_2017.jar
 
 ## License

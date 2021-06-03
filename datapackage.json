@@ -1,7 +1,7 @@
 {
   "name": "unece-units-of-measure",
   "title": "UNECE Units of measure",
-  "version": "13.0",
+  "version": "14.0",
   "licenses": [
     {
       "name": "ODC-PDDL-1.0",
@@ -12,7 +12,7 @@
   "sources": [
     {
       "name": "UNECE",
-      "path": "https://www.unece.org/tradewelcome/un-centre-for-trade-facilitation-and-e-business-uncefact/outputs/cefactrecommendationsrec-index/list-of-trade-facilitation-recommendations-n-16-to-20.html",
+      "path": "https://www.unece.org/uncefact/codelistrecs.html",
       "title": "UNECE"
     }
   ],
@@ -24,14 +24,9 @@
       "schema": {
         "fields": [
           {
-            "name": "LevelAndCategory",
+            "name": "Status",
             "type": "string",
-            "description": "See levels.csv"
-          },
-          {
-            "name": "Sector",
-            "type": "string",
-            "description": "Only for Levels 1 and 2"
+            "description": "See description of status in newest documentation PDF of recommendation no. 20"
           },
           {
             "name": "CommonCode",
@@ -43,13 +38,23 @@
             "type": "string"
           },
           {
-            "name": "Quantity",
-            "type": "string",
-            "description": "Measured quantity, only for Levels 1 and 2"
-          },
-          {
             "name": "Description",
             "type": "string"
+          },
+          {
+            "name": "LevelAndCategory",
+            "type": "string",
+            "description": "See levels.csv"
+          },
+          {
+            "name": "Symbol",
+            "type": "string",
+            "description": "The symbol used to represent the unit of measure as in ISO 31 / 80000."
+          },
+          {
+            "name": "ConversionFactor",
+            "type": "string",
+            "description": "The value used to convert units to the equivalent SI unit when applicable."
           }
         ]
       }
