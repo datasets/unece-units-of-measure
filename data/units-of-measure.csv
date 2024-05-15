@@ -1394,10 +1394,10 @@ X,KTM,kilometre,,1S,km,10³ m
 ,KVT,kilovolt,,1S,kV,10³ V
 ,KW,kilogram per millimetre,,1M,kg/mm,10³ kg/m
 ,KWH,kilowatt hour,,1S,kW·h,"3,6 x 10⁶ J"
-+,KWY,kilowatt year,killowatt year,2,kW/year,
-¦,KWN,Kilowatt hour per normalized cubic metre,Kilowatt hour per normalized cubic metre (temperature 0°C and pressure 1013.25 millibars ).,2,,
+,KWY,kilowatt year,killowatt year,2,kW/year,
+,KWN,Kilowatt hour per normalized cubic metre,Kilowatt hour per normalized cubic metre (temperature 0°C and pressure 1013.25 millibars ).,2,,
 ,KWO,kilogram of tungsten trioxide,A unit of mass equal to one thousand grams of tungsten trioxide.,3.1,kg WO₃,
-¦,KWS,Kilowatt hour per standard cubic metre,Kilowatt hour per standard cubic metre (temperature 15°C and pressure 1013.25 millibars).,2,,
+,KWS,Kilowatt hour per standard cubic metre,Kilowatt hour per standard cubic metre (temperature 15°C and pressure 1013.25 millibars).,2,,
 ,KWT,kilowatt,,1S,kW,10³ W
 ,KX,millilitre per kilogram,,1M,ml/kg,10⁻⁶ m³/kg
 ,L10,quart (US liquid) per minute,,2,qt (US liq.)/min,"1,577 255 x 10⁻⁵ m³/s"
@@ -1761,7 +1761,7 @@ X,NI,net imperial gallon,,3.1,,
 ,NIU,number of international units,A unit of count defining the number of international units.,3.7,,
 X,NJ,number of screens,,3.7,,
 ,NL,load,A unit of volume defining the number of loads (load: a quantity of items carried or processed at one time).,3.4,,
-¦,NM3,Normalised cubic metre,Normalised cubic metre (temperature 0°C and pressure 1013.25 millibars ),2,,m3
+,NM3,Normalised cubic metre,Normalised cubic metre (temperature 0°C and pressure 1013.25 millibars ),2,,m3
 ,NMI,nautical mile,,1,n mile,1 852 m
 ,NMP,number of packs,A unit of count defining the number of packs (pack: a collection of objects packaged together).,3.7,,
 X,NN,train,,3.5,,
@@ -1947,12 +1947,13 @@ X,PZ,peck dry (UK),,3.5,,
 ,Q34,nanolitre,,1S,nl,10-12 m3
 ,Q35,megawatts per minute,A unit of power defining the total amount of bulk energy transferred or consumer per minute.,1M,MW/min,1.667 × 104 W/s
 ,Q36,square metre per cubic metre,A unit of the amount of surface area per unit volume of an object or collection of objects.,3.1,m2/m3,1 m2/m3
-¦,Q37,Standard cubic metre per day,Standard cubic metre (temperature 15°C and pressure 1013.25 millibars ) per day,2.0,,1.15741 × 10-5 m3/s
-¦,Q38,Standard cubic metre per hour,Standard cubic metre (temperature 15°C and pressure 1013.25 millibars ) per hour,2.0,,2.77778 × 10-4 m3/s
-¦,Q39,Normalized cubic metre per day,Normalized cubic metre (temperature 0°C and pressure 1013.25 millibars ) per day,2.0,,1.15741 × 10-5 m3/s
-¦,Q40,Normalized cubic metre per hour,Normalized cubic metre (temperature 0°C and pressure 1013.25 millibars ) per hour,2.0,,2.77778 × 10-4 m3/s
-¦,Q41,Joule per normalised cubic metre,Joule per normalised cubic metre (temperature 0°C and pressure 1013.25 millibars).,2.0,,
-¦,Q42,Joule per standard cubic metre,Joule per standard cubic metre (temperature 15°C and pressure 1013.25 millibars).,2.0,,
+,Q37,Standard cubic metre per day,Standard cubic metre (temperature 15°C and pressure 1013.25 millibars ) per day,2.0,,1.15741 × 10-5 m3/s
+,Q38,Standard cubic metre per hour,Standard cubic metre (temperature 15°C and pressure 1013.25 millibars ) per hour,2.0,,2.77778 × 10-4 m3/s
+,Q39,Normalized cubic metre per day,Normalized cubic metre (temperature 0°C and pressure 1013.25 millibars ) per day,2.0,,1.15741 × 10-5 m3/s
+,Q40,Normalized cubic metre per hour,Normalized cubic metre (temperature 0°C and pressure 1013.25 millibars ) per hour,2.0,,2.77778 × 10-4 m3/s
+,Q41,Joule per normalised cubic metre,Joule per normalised cubic metre (temperature 0°C and pressure 1013.25 millibars).,2.0,,
+,Q42,Joule per standard cubic metre,Joule per standard cubic metre (temperature 15°C and pressure 1013.25 millibars).,2.0,,
+¦,MNJ,Mega Joule per Normalised cubic Metre,Energy in Mega Joules per normalised cubic metre for gas (temperature 0°C and pressure 101325 millibars),2.0,MJ/m³,
 ,Q3,meal,A unit of count defining the number of meals (meal: an amount of food to be eaten on a single occasion).,3.9,,
 ,QA,page - facsimile,A unit of count defining the number of facsimile pages.,3.5,,
 ,QAN,quarter (of a year),A unit of time defining the number of quarters (3 months).,3.8,,
@@ -2004,7 +2005,7 @@ D,SHT,shipping ton,A unit of mass defining the number of tons for shipping.,3.4,
 ,SIE,siemens,,1,S,A/V
 X,SK,split tank truck,,3.4,,
 X,SL,slipsheet,"Use UN/ECE Recommendation 21 (refer to Note 2 in the spreadsheet introduction, 1st sheet).",3.3,,
-¦,SM3,Standard cubic metre,Standard cubic metre (temperature 15°C and pressure 1013.25 millibars ),2,,m3
+,SM3,Standard cubic metre,Standard cubic metre (temperature 15°C and pressure 1013.25 millibars ),2,,m3
 ,SMI,mile (statute mile),,2,mile,"1 609,344 m"
 X,SN,square rod,,3.8,rd²,"25,292 9 m²"
 X,SO,spool,"Use UN/ECE Recommendation 21 (refer to Note 2 in the spreadsheet introduction, 1st sheet).",3.3,,
@@ -2116,3 +2117,21 @@ X,Z6,conference point,,3.5,,
 X,Z8,newspage agate line,,3.9,,
 ,ZP,page,A unit of count defining the number of pages.,3.5,,
 ,ZZ,mutually defined,A unit of measure as agreed in common between two or more parties.,3.9,,
+,MRW,Metre Week,"Unit for measuring physical dimensions and time, as required by DIN 18451",3.2,m·wk,
+,MKW,Square Metre Week,Unit for measuring physical dimensions and time as required by DIN 18451,3.2,m²· wk,
+,MQW,Cubic Metre Week,Unit for measuring physical dimensions and time as required by DIN 18451,3.2,m³·wk,
+,HWE,Piece Week,Unit for measuring the item amount and time as required by DIN 18451,3.2,piece·k,
+,MRD,Metre Day,Unit for measuring physical dimensions and time as required by DIN 18451,3.2,m·day,
+,MKD,Square Metre Day,Unit for measuring physical dimensions and time as required by DIN 18451,3.2,m²·d,
+,MQD,Cubic Metre Day,Unit for measuring physical dimensions and time as required by DIN 18451,3.2,m³·d,
+,HAD,Piece Day,Unit for measuring the item amount and time as required by DIN 18451,3.2,piece·d,
+,MRM,Metre Month,Unit for measuring physical dimensions and time as required by DIN 18451,3.2,m·mo,
+,MKM,Square Metre Month,Unit for measuring physical dimensions and time as required by DIN 18451,3.2,m²·mo,
+,MQM,Cubic Metre Month,Unit for measuring physical dimensions and time as required by DIN 18451,3.2,m³·mo,
+,HMO,Piece Month,Unit for measuring the item amount and time as required by DIN 18451,3.2,piece·mo,
+,DBW,Decibel watt,The decibel watt or dBW is a unit for the measurement of the strength of a signal expressed in decibels relative to one watt.,3.1,dBW,10^[Power in dBW/10] W
+,DBM,Decibel-milliwatts,dBm (sometimes dBmW or decibel-milliwatts) is unit of level used to indicate that a power ratio is expressed in decibels (dB) with reference to one milliwatt (mW).,3.1,dBm,10^[(Power in dBm-30)/10] W
+,FNU,Formazin nephelometric unit,Formazin nephelometric unit (FNU) is used for water turbidity level evaluation,3.5,FNU,
+,NTU,Nephelometric turbidity unit,Nephelometric turbidity unit (NTU) is used for water turbidity level evaluation,3.5,NTU,
+,MTZ,millihertz,A unit of frequency equal to 0.001 cycle per second,1S,mHz ,10-3 Hz
+,Z9,nanomole,An SI unit of amount of substance equal to 10−9 moles,1S,nmol,10-9 mol
