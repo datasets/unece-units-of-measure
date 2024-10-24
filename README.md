@@ -1,3 +1,5 @@
+<a href="https://datahub.io/core/unece-units-of-measure"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+
 Standardised codes from Recommendation 20, mantained by UNECE.
 
 ## Data
