@@ -77,5 +77,8 @@
       }
     }
   ],
-  "collection": "reference-data"
+  "collection": "reference-data",
+  "has_solutions": [
+    "logistics"
+  ]
 }
